@@ -1,4 +1,6 @@
-# Course website for EE 106/206a for Fall 2022
+# Course website for EECS C106/206A for Fall 2023
 
-Website: https://ucb-ee106.github.io/eecs106a-fa22/
-# 106a-fa22site
+The main parts of this repo that will be edited are the _modules/ and the assets/ folders. Most of the others are meant for layouts and general information for students.
+
+Website: https://ucb-ee106.github.io/eecs106a-fa23/
+
