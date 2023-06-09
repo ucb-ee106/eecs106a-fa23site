@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: EECS C106A
 description: Course site for EECS 106A
-author: Riddhi
-email: riddhi_b@berkeley.edu
-baseurl: '/eecs106a-fa22/' # the subpath of your site, e.g. /blog
+author: Tarun Amarnath
+email: tarunamarnath@berkeley.edu
+baseurl: '/eecs106a-fa23site/' # the subpath of your site, e.g. /blog
 url: 'https://ucb-ee106.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
@@ -34,7 +34,7 @@ nav_links:
     EdStem:
       - 'https://edstem.org/us/dashboard'
     Textbook:
-      - 'https://ucb-ee106.github.io/eecs106a-fa22/assets/MLS.pdf'
+      - 'https://ucb-ee106.github.io/eecs106a-fa23site/assets/MLS.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'
