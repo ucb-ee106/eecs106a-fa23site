@@ -5,4 +5,6 @@ email: tarunamarnath@
 photo: assets/staff_pics/TA/tarun.jpg
 ---
 
-Head TA
+Head GSI
+Academic interests: merging classical and learning control
+Personal interests: basketball, reading, travel, art, photography, design
