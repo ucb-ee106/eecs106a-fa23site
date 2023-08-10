@@ -1,11 +1,16 @@
 ---
-title: Week 15
+title: Week 14
 days:
-  - topic: Final Project Presentations
-    date: 2020-12-08
-    description: [Block 1] <br /> [Block 2]
-  - topic: Final Project Presentations
-    date: 2020-12-09
-    description: [Block 3] <br /> [Block 4] <br /> [Block 5]
+  - topic: Miscellaneous Topics III
+    date: 2023-11-28
+    description: 
+  - topic: Miscellaneous Topics IV
+    date: 2023-11-30
+    description: <br />  
 ---
-RRR Week: No Lectures
+
+
+<a id="Week16"></a>
+
+
+

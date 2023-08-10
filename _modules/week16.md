@@ -1,8 +1,13 @@
 ---
-title: Week 16
+title: Week 15
 days:
-  - topic: Final Project Websites due
-    date: 2020-12-16
-    description:
+  - topic: Final Project Presentations
+    date: 2023-12-07
+    description: [Block 1] <br /> [Block 2]
+  - topic: Final Project Presentations
+    date: 2023-12-08
+    description: [Block 3] <br /> [Block 4] <br /> [Block 5]
 ---
-Finals Week - Good luck on your exams!
+RRR Week: No Lectures
+
+<a id="Week17"></a>

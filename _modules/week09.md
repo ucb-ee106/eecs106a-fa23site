@@ -1,17 +1,17 @@
 ---
-title: Week 9
+title: Week 8
 days:
-  - topic: Dynamics of Robots, Lagrangian Dynamics
-    date: 2020-10-25
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 4.2
-  - topic: Control of Robot Manipulators
-    date: 2020-10-27
-    description: <br /> Lecture Slides <br /> Boardwork
+  - topic: Motion planning with Jacobians
+    date: 2023-10-17
+    description: <br />Lecture Slides <br /> Boardwork <br /> Reading - MLS 3.4
+  - topic: Singularities of Jacobians, Wrenches
+    date: 2023-10-19
+    description: <br />Lecture Slides <br /> Boardwork <br /> Reading - MLS 3.4
 ---
 
-- Lab 7: Multiview Geometry and Feature Tracking [Lab Doc](../assets/labs/lab7.pdf) Video
-- [Homework 8: Dynamics](../assets/hw/hw8.zip) 
-  - [PDF](../assets/hw/hw8_assignment.pdf)
-- Discussion 9: Dynamics [Worksheet](../assets/discussions/D9.pdf) [Boardwork](../assets/discussions/disc_9_boardwork.pdf) [Solutions](../assets/discussions/D9-sol.pdf) <a href="https://youtu.be/gISyRQzipSQ">Video</a>
-- LOST Section 6: Jacobians [Notes](../assets/lost/LOST_Jacobians.pdf) [Video](https://youtu.be/Hc3BsMvElU8)
+- Lab Buffer Week; Project Proposal Feedback instead
+- [Homework 7: Jacobians & Singularities](../assets/hw/hw7_assignment.pdf)
+- Discussion 8: Jacobians [Worksheet](../assets/discussions/D8___Jacobians.pdf) [Boardwork](../assets/discussions/D8___Jacobians_boardwork.pdf) [Video](https://youtu.be/DFVjqheQkqc) [Solutions](../assets/discussions/D8___Jacobians_sol.pdf)
+- LOST Section 5: Velocities [Notes](../assets/lost/LOST_Velocities.pdf) [Video](https://youtu.be/P0pcmXcyOgc)
 
+<a id="Week10"></a>

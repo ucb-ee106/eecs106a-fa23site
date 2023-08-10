@@ -1,21 +1,16 @@
 ---
-title: Week 12
+title: Week 11
 days:
-  - topic: Midterm II
-    date: 2020-11-15
-    description:
-  - topic: Miscellaneous Topics I
-    date: 2020-11-17
-    description:
+  - topic: Motion Planning Methods
+    date: 2023-11-07
+    description: <br /> Lecture Slides <br /> [Boardwork]
+  - topic: Midterm II Review
+    date: 2023-11-09
+    description: <br /> [Review Slides](../assets/mt/mt2_review.pdf)
 ---
 
-- **Midterm II on 11/15 in class**
-- Discussion 12: Design
-- Lab LOST Section Video Slides
-- Calendar for TA/LA appointments</a>
+- Lab Buffer Week
+- Discussion 11: Midterm Peparation [Worksheet](../assets/discussions/Discussion_11_MT_Prep.pdf) [Boardwork](../assets/discussions/Discussion_11_Boardwork.pdf)
+- LOST Section 8: Controls [Notes](../assets/lost/LOST_Controls.pdf) [Video](https://youtu.be/HsSZ0eR6CzM)
 
-
-
-
-
-
+<a id="Week13"></a>

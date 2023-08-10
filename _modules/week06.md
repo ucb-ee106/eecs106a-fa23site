@@ -1,17 +1,18 @@
 ---
-title: Week 6
+title: Week 5
 days:
-  - topic: Vision - Image Primitives and Correspondence
-    date: 2020-10-04
-    description: <br /> [Lecture Slides](../assets/lec/CV-lec2.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
-  - topic: Vision - Two View Geometry
-    date: 2020-10-06
-    description: <br /> [Lecture Slides](../assets/lec/CV-lec3.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
+  - topic: Vision - Image Formation and Features
+    date: 2023-09-26
+    description: <br/> [Lecture Slides](../assets/lec/CV-lec1.pdf) <br /> [Boardwork] <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
+  - topic: Midterm
+    date: 2023-09-28
+    description:
 ---
 
-- Lab 5: Inverse Kinematics and Path Planning [Lab Doc](../assets/labs/lab5.pdf)
-- Lab 6: Vision [Lab Doc](../assets/labs/lab6.pdf)
-- [Homework 5: Vision](../assets/hw/hw5.zip)
-- Discussion 6: Vision [Worksheet](../assets/discussions/D6__Computer_Vision.pdf) [Video](https://youtu.be/4Nt2JPa-ao4) [Boardwork](../assets/discussions/D6__Computer_Vision_boardwork.pdf) [Solutions](../assets/discussions/D6__Computer_Vision_sol.pdf)
+- **Midterm I 09/29 in class**
+- LOST Section 3: Inverse Kinematics [Notes](../assets/lost/LostInvKinematics.pdf) [Video](https://youtu.be/OvxJqM0wSTA)
+- Lab Buffer Week
+- No new homework this week
+- Discussion 5: Project Ideation [Project Guidelines] Intro slides Link to Gather Video
 
-
+<a id="Week7"></a>

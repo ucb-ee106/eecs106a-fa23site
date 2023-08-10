@@ -1,16 +1,18 @@
 ---
-title: Week 8
+title: Week 7
 days:
-  - topic: Motion planning with Jacobians
-    date: 2020-10-18
-    description: <br />Lecture Slides <br /> Boardwork <br /> Reading - MLS 3.4
-  - topic: Singularities of Jacobians, Wrenches
-    date: 2020-10-20
-    description: <br />Lecture Slides <br /> Boardwork <br /> Reading - MLS 3.4
+  - topic: Velocities, Twists and Screws
+    date: 2023-10-10
+    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 2.4
+  - topic:  Velocities, Twists, Screws & Manipulator Jacobian
+    date: 2023-10-12
+    description: <br /> Lecture Slides <br /> Boardwork <br /> Valmik's Slides <br /> Reading - MLS 2.4, 3.4
 ---
 
-- Lab Buffer Week; Project Proposal Feedback instead
-- [Homework 7: Jacobians & Singularities](../assets/hw/hw7_assignment.pdf)
-- Discussion 8: Jacobians [Worksheet](../assets/discussions/D8___Jacobians.pdf) [Boardwork](../assets/discussions/D8___Jacobians_boardwork.pdf) [Video](https://youtu.be/DFVjqheQkqc) [Solutions](../assets/discussions/D8___Jacobians_sol.pdf)
-- LOST Section 5: Velocities [Notes](../assets/lost/LOST_Velocities.pdf) [Video](https://youtu.be/P0pcmXcyOgc)
+- Lab 6: Computer Vision [Lab Doc] Video
+- [Homework 6: Velocities](../assets/hw/hw6_assignment.pdf)
+- Discussion 7: Velocities [Worksheet](../assets/discussions/D7___Velocities_and_Adjoints.pdf) <a href="https://youtu.be/dWMAt8SyyHQ">Video</a> [Solutions](../assets/discussions/D7___Velocities_and_Adjoints_sol.pdf)
+- LOST Section 4: Computer Vision [Notes](../assets/lost/LOST_Computer_Vision.pdf) [Video](https://youtu.be/bhM2Xad7NKQ)
+- [Additional Velocities Notes from Isabella]
 
+<a id="Week9"></a>

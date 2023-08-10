@@ -1,16 +1,18 @@
 ---
-title: Week 7
+title: Week 6
 days:
-  - topic: Velocities, Twists and Screws
-    date: 2020-10-11
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 2.4
-  - topic:  Velocities, Twists, Screws & Manipulator Jacobian
-    date: 2020-10-13
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Valmik's Slides <br /> Reading - MLS 2.4, 3.4
+  - topic: Vision - Image Primitives and Correspondence
+    date: 2023-10-03
+    description: <br /> [Lecture Slides](../assets/lec/CV-lec2.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
+  - topic: Vision - Two View Geometry
+    date: 2023-10-05
+    description: <br /> [Lecture Slides](../assets/lec/CV-lec3.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
 ---
 
-- Lab 6: Computer Vision [Lab Doc] Video
-- [Homework 6: Velocities](../assets/hw/hw6_assignment.pdf)
-- Discussion 7: Velocities [Worksheet](../assets/discussions/D7___Velocities_and_Adjoints.pdf) <a href="https://youtu.be/dWMAt8SyyHQ">Video</a> [Solutions](../assets/discussions/D7___Velocities_and_Adjoints_sol.pdf)
-- LOST Section 4: Computer Vision [Notes](../assets/lost/LOST_Computer_Vision.pdf) [Video](https://youtu.be/bhM2Xad7NKQ)
-- [Additional Velocities Notes from Isabella]
+- Lab 5: Inverse Kinematics and Path Planning [Lab Doc](../assets/labs/lab5.pdf)
+- Lab 6: Vision [Lab Doc](../assets/labs/lab6.pdf)
+- [Homework 5: Vision](../assets/hw/hw5.zip)
+- Discussion 6: Vision [Worksheet](../assets/discussions/D6__Computer_Vision.pdf) [Video](https://youtu.be/4Nt2JPa-ao4) [Boardwork](../assets/discussions/D6__Computer_Vision_boardwork.pdf) [Solutions](../assets/discussions/D6__Computer_Vision_sol.pdf)
+
+
+<a id="Week8"></a>

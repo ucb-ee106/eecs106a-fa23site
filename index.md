@@ -27,6 +27,4 @@ Fall 2023 | Instructors: Professors Koushil Sreenath and Shankar Sastry
 ## Test
 {{site.modules[0]}}
 
-### Test 2
-
 {{site.modules[1]}}
