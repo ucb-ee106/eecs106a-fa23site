@@ -22,14 +22,14 @@ description: >-
 
 This course will be taught in a seminar style, with lectures, homeworks, labs, 2 midterms, and a final project. **All submissions will go through Gradescope (Course Entry Code: K328WG)**. An [Ed page](https://edstem.org/us/join/bwTkUS) has been created for students to discuss homeworks and projects. 
 
-Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of lab sections. All of these and office hours will be hosted in-person. You are expected to work on final projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the hands-on nature of lab sections, they will not be offered asynchronously, and you are expected to attend your assigned lab every week.
+Each week, there are 3 hours of lecture, 3 hours of lab sections, and 1 hour of discussion. All of these and office hours will be hosted in-person. You are expected to work on final projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the hands-on nature of lab sections, they will not be offered asynchronously, and you are expected to attend your assigned lab every week.
 
 ## Lectures
 
 Lecture attendance is not mandatory, but we highly recommend attending live if possible to ask questions and engage fully with the material. Lectures will be held synchronously on Tuesdays and Thursdays, 2:00 - 3:30pm, in Dwinelle 145. They will be recorded and posted for students who cannot attend live.
 
 ## Discussions
-Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended, but not mandatory.
+Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended but not mandatory.
 
 Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. 
 
@@ -70,10 +70,14 @@ Labs may be worked on outside of class hours. Additionally, labs may be checked 
 Labs should ideally be completed by the end of your assigned lab section and are scoped such that this should be feasible. We recognize, however, that due to different levels of previous experience with the material this will not always be possible. In order to accommodate this variation while ensuring that students do not fall behind, we have developed the following (admittedly complex) policies:
 
 - Labs 1-2 are a serial introduction to ROS and the other tools used in this class. They must therefore be completed by the *start* of your assigned lab section the following week.
-- Labs 3-8 occur in Modules of two labs each (3 & 4, 5 & 6, 7 & 8); each Module is dependent on the previous Module, but labs within each Module are not dependent on each other. Modules are 3 weeks long. At the start of each Module, both labs will be released. Half of the students in each section will work on the even numbered lab, while the other half will work on the odd numbered lab during the first week. The groups will switch during the second week. The third and final week of the Module is a buffer week, intended to be used if you were unable to complete the lab(s) during this module. You will receive full credit for any check-offs during the buffer week for any labs in the current module. Both labs from the module are due at the start of your lab section the week after your buffer week (ie: the start of the lab when you begin a new Module).
+- Labs 3-8 occur in Modules of two labs each (3 & 4, 5 & 6, 7 & 8); each Module is dependent on the previous Module, but labs within each Module are not dependent on each other. Modules are 3 weeks long. 
+- At the start of each Module, both labs will be released. Half of the students in each section will work on the even numbered lab, while the other half will work on the odd numbered lab during the first week. The groups will switch during the second week. The third and final week of the Module is a buffer week, intended to be used if you were unable to complete the lab(s) during this module. 
+- You will receive full credit for any check-offs during the buffer week for any labs in the current module. Both labs from the module are due at the start of your lab section the week after your buffer week (ie: the start of the lab when you begin a new Module).
 - Week 3 of Module 3 will also be used to provide final project feedback
 
-*The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may **not** check off that assignment at the start of class for full credit; it must be checked off **beforehand**. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.* If you miss the checkoff deadline for a lab, you will have one week after the due date to receive 50% credit.
+*The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may **not** check off that assignment at the start of class for full credit; it must be checked off **beforehand**. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.* 
+
+If you miss the checkoff deadline for a lab, you will have one week after the due date to receive 50% credit.
 
 
 |**Lab**|**Assigned**|**Due Week Of**|
