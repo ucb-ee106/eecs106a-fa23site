@@ -1,3 +1,5 @@
+<!-- UPDATE PREREQS AND OUTCOMES TO BE ABOUT 106A INSTEAD -->
+
 ---
 layout: page
 title: About
