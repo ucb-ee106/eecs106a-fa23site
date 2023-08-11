@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-nav_order: 6
+nav_order: 4
 description: >-
     Resources for class
 ---
@@ -29,24 +29,16 @@ description: >-
 - Ron's ROS Basics [Video](https://www.youtube.com/watch?v=qFVtJcGoJvw)
 
 ## Lecture Supplements 
-
-- [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that might be easier to understand than the course's official textbook)
+The primary texts are
+- MLS: Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106a-fa23site/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
 - [JupyterBook Course Notes](https://ucb-ee106.github.io/ee106a_jupyterbook/intro.html)
-- [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
-- [Discussion slides by Robert Peter Matthew, former 106A TA](http://robertpetermatthew.com/index.php/teaching/)
-- [MLS Errata](https://www.cds.caltech.edu/~murray/books/MLS/index.html)
-- [Additional Velocities Notes from Isabella](/assets/lec/additional_velocity_notes.pdf)
-- [Notes from Max: Rotations and Rigid Body Motion](/assets/lec/Rigid_Body_Rotations.pdf)
 
-## Midterm Resources
-Coming soon! 
+Other reference material:
+- Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/help/connect-off-campus">UCB Library VPN.</a> (I recommend adding the browser bookmark, it's super useful to log into scientific websites quickly)
+- [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that might be easier to understand than the course's official textbook)
+- - [Modern Robotics: Videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
+- Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, and Sebastian Thrun *Principles of Robot Motion Planning: Theory, Algorithms, and Implementation*, MIT Press, 2005.
+- [MLS Errata](https://www.cds.caltech.edu/~murray/books/MLS/index.html)
 
 ## Final Project Resources
-- [Fa 22:Project Guidelines](/assets/proj/_EECS_106A_Fa22__Final_Project_Guidelines.pdf)
-
-- [Proposal Template](assets/proj/project_proposal_template.tex)
-
-Please note that final projects will look very different this year compared to previous years! We are providing these as examples of what might be fun spaces to explore.
-- [Past Projects: 2015](assets/proj/past_projects_2015.pdf)
-- [Past Projects: 2017](assets/proj/past_projects_2017.pdf)
-- [Past Projects: 2018](assets/proj/past_projects_2018.pdf)
+- [Fa22 Final Project Guidelines](https://static.us.edusercontent.com/files/f5PUFknMwsDoUdWUZiTrYP04)

@@ -20,18 +20,20 @@ description: >-
 ---
 
 ## Class Description
-This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on computer vision and robot motion planning. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas.
+This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, control of robot manipulators, robotic vision, and sensing. 
 
-The lectures are supplemented with homeworks and experimental work in the laboratory using several <a href="http://www.rethinkrobotics.com/sawyer/">Sawyer</a> and <a href="http://www.turtlebot.com/turtlebot2/">TurtleBot</a> robots. There are two midterms but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out in groups of approximately four students.
+We will begin with the discussion of mathematical representations for movement using rotation matrices and exponential coordinates. Then, we will talk about the control of serial chained manipulators, such as armed robots, by covering forward and inverse kinematics and the manipulator Jacobian. To bring dynamics into consideration, we will talk about force and energy relations, particularly using the Lagrangian. Tracking the real world is necessary for effective robot application, so we will cover important practical computer vision concepts including camera intrinsics and calibration. To have a robot effectively work, both feedforward and feedback control are necessary, so we will discuss how to effectively incorporate both to keep the machine performing as desired. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas. 
+
+The lectures are supplemented with homeworks and experimental work in the laboratory using <a href="http://www.rethinkrobotics.com/sawyer/">Sawyer</a> and <a href="http://www.turtlebot.com/turtlebot2/">TurtleBot</a> robots. There are two midterms but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out individually or in groups of approximately four students.
 
 ## Prerequisites
-Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C206A or an equivalent course. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Those who have not taken EECS C106A / BioE C106A / ME C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to linear algebra, Lagrangian dynamics, and feedback controls at the intermediate level. Please speak to a member of course staff if you are interested in taking the class without the prerequisites.
+Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language. This could come from EECS 16B/Math 54 and CS 61A, for example. Please speak to a member of course staff if you are interested in taking the class without the prerequisites.
 
 ## Desired Course Outcomes
-The primary objective of this course is to help students develop the academic maturity necessary to understand and conduct research in the field of robotics, vision, and intelligent machines. Along with surveying a breadth of topics relevant to modern robotics, this course also gives students the ability to implement the concepts taught in lecture through exploratory lab-based projects. Students will get practice reading and interpreting research papers through weekly paper presentations. The course culminates in a final project that allows students to conduct independent, original research on a topic of their choosing. Students who complete EECS 106B/206B should:
-- Be proficient at reading, comprehending, critiquing, and reimplementing research papers in the field of robotics.
-- Have experience conducting independent research in model-based robotics, vision and intelligent machines.
-- Have the tools necessary to reason about nonlinear control systems, robotic manipulators, steering systems subject to non-holonomy, path-planning, active vision, image reconstruction, active vision, robotic grasping, and other advances in robotics.
+Students who complete EECS C106A/206A should: 
+- Be able to reason about many robotics concepts, including control and vision 
+- Have experience implementing robotic algorithms in a variety of settings and be able to adapt to new environments
+- Be ready to start performing research in the field of robotics
 
 Please see the homepage for a weekly breakdown of topics.
 

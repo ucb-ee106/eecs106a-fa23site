@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weekly Schedule
-nav_order: 4
+title: OH and Lab Schedule
+nav_order: 2
 description: The weekly event schedule.
 ---
 

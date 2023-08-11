@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: EECS C106A
-description: Course site for EECS 106A
+description: Course site for EECS 106A Fall 2023
 author: Tarun Amarnath
 email: tarunamarnath@berkeley.edu
 baseurl: '/eecs106a-fa23site/' # the subpath of your site, e.g. /blog

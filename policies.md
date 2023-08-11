@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-nav_order: 2
+nav_order: 3
 description: >-
     Course policies and information.
 ---
@@ -16,41 +16,26 @@ description: >-
 {:toc}
 
 ---
-Please note: Course policies are subject to change.
+# Presentation of Course Material
 
-## About the Course
+## Overview
 
-This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on computer vision and robot motion planning. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas. **Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language.** The lectures are supplemented with homeworks and experimental work in the laboratory using simulations based on several <a href="http://www.rethinkrobotics.com/baxter/">Baxter</a>, <a href="http://www.rethinkrobotics.com/sawyer/">Sawyer</a>, and <a href="http://www.turtlebot.com/turtlebot2/">TurtleBot</a> robots. There are two midterms, but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out individually or in groups of approximately four students.
+This course will be taught in a seminar style, with lectures, homeworks, labs, 2 midterms, and a final project. **All submissions will go through Gradescope (Course Entry Code: K328WG)**. An [Ed page](https://edstem.org/us/join/bwTkUS) has been created for students to discuss homeworks and projects. 
 
-Questions regarding homeworks, exams, lectures, and discussions should be directed to a Discussion TA. Questions regarding labs should be directed to a Lab TA. Questions regarding course logistics should be directed to Riddhi. You can check the Staff page to see who can best respond to your question. All questions can and should be directed to Edstem for the fastest response. When emailing a GSI, please prefix the subject line with [EECS C106A].
-
-**Note all following dates and times are in PST/PDT.**
-
-## Resources
-
-The required text is Richard Murray, Zexiang Li and S. Shankar Sastry’s *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). The errata which contain the known errors can be found at <a href = "https://www.cds.caltech.edu/~murray/books/MLS/index.html">this link</a>. Additional lectures will cover the basics of computer vision, path planning, state estimation, and control. We will also use supplementary material from
-the book by Ma Yi, Stefano Soatto, Jana Kosecka, and Shankar Sastry *An Invitation to 3 D Vision: From Images to Geometric Models*, Springer Verlag, 2004 (slides willl be provided) and from the motion planning book of Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, and Sebastian Thrun *Principles of Robot Motion Planning: Theory, Algorithms, and Implementation*, MIT Press, 2005. You are not required to purchase these two references.
-
-## Disability Accommodations & Emergencies
-
-If you need disability-related accommodations in this class, if you have emergency medical information you wish to share with us, or if you need special arrangements in case the building must be evacuated, please inform us immediately. Please see the professor or GSIs privately after class or send us an email.
-
-## Grade Breakdown
-
-|Homeworks| 20%|
-|Midterms| 20%|
-|Labs| 20%|
-|Final Project| 40%|
+Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of lab sections. All of these and office hours will be hosted in-person. You are expected to work on final projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the hands-on nature of lab sections, they will not be offered asynchronously, and you are expected to attend your assigned lab every week.
 
 ## Lectures
 
-Lecture attendance is not mandatory, but we highly recommend attending live lecture if possible. Lectures will be held synchronously on Tuesdays and Thursdays, 11:00 am - 12:30 pm. Lectures will be recorded and posted for students who cannot attend live lecture.
+Lecture attendance is not mandatory, but we highly recommend attending live if possible to ask questions and engage fully with the material. Lectures will be held synchronously on Tuesdays and Thursdays, 2:00 - 3:30pm, in Dwinelle 145. They will be recorded and posted for students who cannot attend live.
 
-Lectures will be composed of 2-3 "modules", with quick discussion and question breaks in between. You will have the opportunity to ask clarifying questions and have the professor or a TA respond in real time.
+## Discussions
+Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended, but not mandatory.
+
+Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. 
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **57KNVR**.
+Homeworks will be collected and graded using Gradescope. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **K328WG**.
 
 There will be a total of 10 homeworks, due weekly through mid-November (with the exception of midterm weeks). Homework will be released in the evening each Wednesday, starting August 25 (the first day of class). You will have until 11:59pm the following Tuesday to complete each assignment.
 
@@ -70,14 +55,9 @@ Each student is allocated 5 total days of extension (also known as *slip days*),
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-We will hold **weekly homework parties!** They will be held each Monday 6:00pm - 8:00pm. They will be staffed by TAs and readers to assist students working through the homework. These hours are dedicated to homework only.
+We will hold **weekly homework parties!** They will be held each Monday 7:00pm - 9:00pm. They will be staffed by TAs and assistants to help students working through the homework. These hours are dedicated to homework only.
 
-Additionally, you will receive one homework drop if you complete both post-midterm surveys.
-
-## Midterms
-
-There will be two midterms covering the course material, on **Thursday, September 29**, and **Tuesday, November 15**. The midterms will be held in person during class time.
-Students will be allowed a cheat sheet.
+Additionally, you will receive one homework drop if you complete **both** post-midterm surveys.
 
 ## Labs
 
@@ -87,13 +67,13 @@ Lab sections will meet each week beginning the first full week of classes (start
 
 Labs may be worked on outside of class hours. Additionally, labs may be checked off at the office hours of any Lab TA, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
 
-Labs should ideally be completed by the end of your assigned lab section, and are scoped such that this should be feasible. We recognize, however, that due to different levels of previous experience with the material this will not always be possible. In order to accommodate this variation while ensuring that students do not fall behind, we have developed the following (admittedly complex) policies:
+Labs should ideally be completed by the end of your assigned lab section and are scoped such that this should be feasible. We recognize, however, that due to different levels of previous experience with the material this will not always be possible. In order to accommodate this variation while ensuring that students do not fall behind, we have developed the following (admittedly complex) policies:
 
 - Labs 1-2 are a serial introduction to ROS and the other tools used in this class. They must therefore be completed by the *start* of your assigned lab section the following week.
-- Labs 3-8 occur in Modules of two labs each (3 & 4, 5 & 6, 7 & 8); each Module is dependent on the previous Module, but labs within each Module are not dependent on each other. Modules are 3 weeks long. At the start of the first week of a Module, the odd-numbered lab will be released. At the start of the second week of the Module, the even-numbered lab will be released. The third and final week of the Module is a buffer week, intended to be used if you were unable to complete the lab(s) during this module. You will receive full credit for any check-offs during the buffer week for any labs in the current module. Both labs from the module are due at the start of your lab section the week after your buffer week (ie: the start of the lab when you begin a new Module).
+- Labs 3-8 occur in Modules of two labs each (3 & 4, 5 & 6, 7 & 8); each Module is dependent on the previous Module, but labs within each Module are not dependent on each other. Modules are 3 weeks long. At the start of each Module, both labs will be released. Half of the students in each section will work on the even numbered lab, while the other half will work on the odd numbered lab during the first week. The groups will switch during the second week. The third and final week of the Module is a buffer week, intended to be used if you were unable to complete the lab(s) during this module. You will receive full credit for any check-offs during the buffer week for any labs in the current module. Both labs from the module are due at the start of your lab section the week after your buffer week (ie: the start of the lab when you begin a new Module).
 - Week 3 of Module 3 will also be used to provide final project feedback
 
-*The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may **not** check off that assignment at the start of class for full credit; it must be checked off beforehand. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.* If you miss the checkoff deadline for a lab, you will have one week after the due date to receive 50% credit.
+*The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may **not** check off that assignment at the start of class for full credit; it must be checked off **beforehand**. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.* If you miss the checkoff deadline for a lab, you will have one week after the due date to receive 50% credit.
 
 
 |**Lab**|**Assigned**|**Due Week Of**|
@@ -107,21 +87,21 @@ Labs should ideally be completed by the end of your assigned lab section, and ar
 | Lab 8 | 10/23 | 11/13 |
 
 
-We understand that these policies are a bit nuanced,  and if you have questions,  please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
+We understand that these policies are a bit nuanced,  and if you have questions, please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
 
 **Please do not make your lab respositories public, even after you finish the course. We're doing our best to uphold academic honesty!**
 
-## Discussions
-Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). Attendance is recommended, but not mandatory.
 
-Friday sections are held in person in Cory 521.
-The Thursday 2-3pm section will be held in person in Cory 400 and recorded. Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. If privacy is a concern, please consider turning off your camera before speaking.
+## Midterms
 
-## Lost and Overwhelmed Students’ Turnabout (LOST) Section
+There will be two midterms covering the course material, on **Thursday, September 29**, and **Tuesday, November 15**. The midterms will be held in person during class time.
+Students will be allowed a cheat sheet.
+
+<!-- ## Lost and Overwhelmed Students’ Turnabout (LOST) Section
 
 We will be hosting LOST Section on Wednesdays 5:00pm - 7:00pm, location forthcoming. This section is dedicated to providing a safe space for students who feel as though they are lost or falling behind in the course. The LOST section will lag one week behind the lecture pace so students have time to formulate questions and ask them. Each week, a poll will be released to ask students what topics they would like to be covered in a “mini-lecture” at the start of LOST section. After the mini-lecture, students will have the opportunity to work on additional problems and ask more questions.
 
-This section is NOT intended to be used as a review session.
+This section is NOT intended to be used as a review session. -->
 
 
 ## Final Project
@@ -132,19 +112,51 @@ All students must complete a final project. Failure to complete a final project 
 
 ## Office Hours
 
-The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.
+The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, we will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.
 
-If you are unable to attend office hours, please utilize the Edstem for this class. We cannot guar     antee response time from instructors, but we highly recommend helping your classmates out as you can! 
+Please utilize the Edstem for this class. We cannot guarantee response time from instructors (although it should be within a day or two), but we highly recommend helping your classmates out as you can! 
 
-Please take all homework, discussion, and lecture questions to Discussion TAs. All lab questions should be discussed with Lab TAs. Any administrative questions should be directed to Riddhi. If you do not follow these guidelines, there are no guarantees your questions will be answered.
+Questions regarding homeworks, exams, lectures, and discussions should be directed to the professors or a Content TA. Questions regarding labs should be directed to a Lab TA. Questions regarding course logistics should be directed to Tarun. You can check the Staff page to see who can best respond to your question. When emailing us, please prefix the subject line with [EECS C106A].
 
-## A Note on Late Work
 
-While  we  will  abide  by  the  policies  listed  above  regarding  specific  assignment  types,  we  understand  that unforeseen circumstances do happen.  If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and before the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
+
+
+
+
+
+
+
+
+
+
+# Grading
+
+## Grade Breakdown
+
+|Homeworks| 20%|
+|Midterms| 20%|
+|Labs| 20%|
+|Final Project| 40%|
 
 ## Regrade Requests
 
-If you feel that your work has been graded unfairly, you may request a regrade by submitting a request on Gradescope with a written statement explaining the mistake. Be aware that points may be deducted as well as added if a regrade is requested.
+If you feel that your work has been graded unfairly, you may request a regrade by submitting a request on Gradescope with a written statement explaining the mistake. Be aware that points may be deducted as well as added if a regrade is requested. The deadline for requests will be announced when grades are released.
+
+## Effort, Participation, and Altruism (EPA) Points
+
+We want to reward you for engaging respectfully with the course! You are eligible to earn up to 2% extra credit via Effort, Participation, Altruism (EPA) points. These points can be earned in a variety of ways:
+
+- Attending lecture and discussion 
+- Asking questions in class
+- Helping others in lab section
+- Answering questions on Ed
+- Coming to Office Hours and Homework Party
+  
+Please remember to treat your peers (and hopefully your instructors!) with kindness and respect.
+
+## A Note on Late Work
+
+While we will abide by the policies listed above regarding specific assignment types, we  understand that unforeseen circumstances do happen. If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and **before** the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
 
 <!-- ## Due Dates
 
@@ -168,6 +180,34 @@ Here are some of the key assignments this semester (organized by due date). Lab 
 | **Final Project Presentations** | Assignments TBD | 12/10 & 12/11 |
 | **Final Project Reports** | 10/30 | 12/18 11:59pm | -->
 
+
+
+
+
+
+
+
+
+
+
+# Miscellaneous Information
+
+## Disability Accommodations & Emergencies
+
+If you need disability-related accommodations in this class, if you have emergency medical information you wish to share with us, or if you need special arrangements in case the building must be evacuated, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
+
+## Collaboration Policy
+
+Students are allowed—and in fact, encouraged—to collaborate on how to approach problems. This can include talking through approaches and whiteboarding together. However, each student is responsible for writing their own responses, both for typical written questions and coding assignments. Students should never be in possession of another student’s code.
+
+Online material is also open to use. However, it must not be copied directly, and any references should be credited in your work. Using previous years' solutions from 106B/206B or any other class constitutes plagiarism and will be punished accordingly.
+
+When debugging, students are encouraged to come to office hours for assistance. If debugging with peers, we encourage you to do this in person with others in small groups. However, we understand that this is not always possible, so screen sharing code for debugging assistance is permissible. When debugging, please do so in pairs or very small groups, and always do so in controlled settings to minimize sharing answers.
+
+Students should never screenshare their code or answers directly on public platforms like non-private posts on Ed, the class Discord, or Zoom rooms. Please note that screen sharing on Discord can be viewed even without directly joining the call, so there can be no record of who is viewing your stream at any time. ALWAYS list collaborators.
+
+**tl;dr: Work together on approach, but write your own answers. If you need direct help debugging, ask a TA for help, or do so in controlled environments where the only people who see your code are your approach collaborators. ALWAYS list collaborators and cite sources on your submissions.**
+
 ## Advice 
 
 The following tips are offered based on our experience.
@@ -182,4 +222,6 @@ The following tips are offered based on our experience.
 
 **Form study groups!** As stated above, you are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of our collaboration policies, it also ensures you will learn a lot less from this course.
 
-We understand that there is a lot happening and this semester will have its unique challenges. We are here to support you throughout the semester, both as students *and as people.* Life happens, and we want to make sure you are still receiving a quality education despite the current state of the world. **Please communicate with us** if you are experiencing extenuating circumstances and need extra support. We're here for you.
+
+## A Final Note
+We understand that there is a lot happening, and every semester will have its unique challenges. We are here to support you throughout the semester, both as students *and as people.* Life happens, and we want to make sure you are always receiving a quality education. **Please communicate with us** if you are experiencing extenuating circumstances and need extra support. We're here for you.
