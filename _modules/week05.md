@@ -1,18 +1,18 @@
 ---
-title: Week 4
+title: Week 5
 days:
-  - topic: Inverse Kinematics(cont.)
-    date: 2023-09-19
-    description: <br /> Lecture Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
-  - topic: Inverse Kinematics - Examples + Midterm Review
-    date: 2023-09-21
-    description: <br /> [Midterm Review Slides](../assets/mt/Midterm-1-Review-Session.pdf) <br /> [Lab Review Slides](https://docs.google.com/presentation/d/1aBDWyhVeOQ8-oeZc3dh3Xw1zBMAhVIET_EmXYduD5z0/edit#slide=id.g15d020c5255_0_679) <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.3
+  - topic: Vision - Image Formation and Features
+    date: 2023-09-26
+    description: <br/> [Lecture Slides](../assets/lec/CV-lec1.pdf) <br /> [Boardwork] <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
+  - topic: Midterm
+    date: 2023-09-28
+    description:
 ---
 
-- Lab 4: Introduction to Mobile Robotics [Lab Doc] [Video]
-- [Homework 4: Inverse Kinematics](../assets/hw/hw4_assignment.pdf)
-- Discussion 4: Inverse Kinematics [Worksheet](../assets/discussions/D4.pdf) [Video](https://youtu.be/VwvHuU58gWE) [Boardwork](../assets/discussions/D4_Boardwork.pdf) [Solutions](../assets/discussions/D4_sol.pdf)
-- LOST Section 2: Forward Kinematics [Notes](../assets/lost/LOST_Forward_Kin.pdf) [Video](https://youtu.be/3clGd9NUa6Y)
-- Practice Midterm I [Exam](../assets/mt/practice_midterm1_assignment.pdf) [Solutions](../assets/mt/practice_midterm1_solutions.pdf)
+- **Midterm I 09/29 in class**
+- LOST Section 3: Inverse Kinematics [Notes](../assets/lost/LostInvKinematics.pdf) [Video](https://youtu.be/OvxJqM0wSTA)
+- Lab Buffer Week
+- No new homework this week
+- Discussion 5: Project Ideation [Project Guidelines] Intro slides Link to Gather Video
 
 <a id="Week6"></a>

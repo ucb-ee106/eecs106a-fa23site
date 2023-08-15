@@ -1,19 +1,16 @@
 ---
-title: Week 10
+title: Week 11
 days:
-  - topic: Control of Robots (cont.)
-    date: 2023-10-31
-    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
-  - topic: Control (cont.)
-    date: 2023-11-02
-    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
+  - topic: Motion Planning Methods
+    date: 2023-11-07
+    description: <br /> Lecture Slides <br /> [Boardwork]
+  - topic: Midterm II Review
+    date: 2023-11-09
+    description: <br /> [Review Slides](../assets/mt/mt2_review.pdf)
 ---
 
-- Lab 8: Building Occupancy Grids with STDR [Lab Doc](../assets/labs/lab8.pdf) 
-- [Homework 9: Control](../assets/hw/hw9.zip) 
-  - [PDF](../assets/hw/hw9_assignment.pdf)
-- Discussion 10: Control [Worksheet](../assets/discussions/D10_Control.pdf) [Boardwork](../assets/discussions/D10_Control_boardwork.pdf) [Solution](../assets/discussions/D10_Control_soln.pdf) [Video](https://youtu.be/Qyy5YsKKyZQ)
-- LOST Section 7: Dynamics [Notes](../assets/lost/LOST_Dynamics.pdf) [Video](https://youtu.be/VqTuPGxp5EQ)
+- Lab Buffer Week
+- Discussion 11: Midterm Peparation [Worksheet](../assets/discussions/Discussion_11_MT_Prep.pdf) [Boardwork](../assets/discussions/Discussion_11_Boardwork.pdf)
+- LOST Section 8: Controls [Notes](../assets/lost/LOST_Controls.pdf) [Video](https://youtu.be/HsSZ0eR6CzM)
 
 <a id="Week12"></a>
-

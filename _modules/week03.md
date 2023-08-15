@@ -1,17 +1,20 @@
 ---
-title: Week 3
+title: Week 3 
 days:
-  - topic: Forward Kinematics of Robots
-    date: 2023-09-05
-    description: <br /> [Lecture Slides](../assets/lec/L4-RigidMotions.pdf) <br />  [Boardwork](../assets/lec/L4-RigidMotions-annotated.pdf) <br />Reading - MLS 3.2
-  - topic: Forward Kinematics of Robots (cont.)
-    date: 2023-09-07
-    description: <br /> [Lecture Slides](../assets/lec/L5-TwistsandScrews.pdf) <br /> [Boardwork](../assets/lec/L5-TwistsandScrews-annotated.pdf) <br /> Reading - MLS 3.2
-  
+  - topic: Forward Kinematics - Examples
+    date: 2023-09-12
+    description: <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.2
+  - topic: Inverse Kinematics
+    date: 2023-09-14
+    description: <br /> Lecture Slides <br /> [Boardwork]  <br /> Reading - MLS 3.2
+
 ---
 
-- Lab 2: Writing Publisher/Subscriber Nodes in ROS <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab2"> Starter Code </a> [Lab Doc](../assets/labs/lab2.pdf)
-- [Homework 2: Exponential Coordinates](../assets/hw/hw2.zip)
-- Discussion 2: Exponential Coordinates [Worksheet](../assets/discussions/D2___Exponential_Coordinates.pdf) <a href="https://www.youtube.com/watch?v=AtCrWkYDGPc&list=PLqJJk1gbIJfCJ2x01WinxNhm1av3f44kq&index=4">Video</a> [Boardwork](../assets/discussions/D2_Exponential_Coordinates_Boardwork.pdf) [Solutions](../assets/discussions/D2_ExponentialCoords_soln.pdf)
+- Lab 3: Forward Kinematics/Coordinate Transforms [Prelab] [Lab Doc](../assets/labs/lab3.pdf)
+- Lab 4: [Lab Doc](../assets/labs/lab4.pdf)
+- [Homework 3: Forward Kinematics](../assets/hw/hw3.zip)
+- Discussion 3: Forward Kinematics [Worksheet](../assets/discussions/D3___Forward_Kinematics.pdf) <a href="https://youtu.be/ChTb6I_l4zE">Video</a> [Solutions](../assets/discussions/D3___Forward_Kinematics_sol.pdf)
+- LOST Section 1: Rigid body transformation; Twist; Exponential Coordinates; Screw [Notes](../assets/lost/LOST_Rigid_motion_R3.pdf) <a href="https://youtu.be/1EvDs3SnUlA">Video</a> [Solutions]
+- [Potential Final Project Ideas] You can pitch your own ideas as well!
 
 <a id="Week4"></a>

@@ -1,16 +1,17 @@
 ---
 title: Week 2
 days:
-  - topic: Rotations of Rigid Bodies
-    date: 2023-08-29
-    description: <br />[Lecture Slides](../assets/lec/L2-RotationalMotions-MLS.Chap2.pdf) <br /> [Boardwork](../assets/lec/L2-RotationalMotions-MLS.Chap2-annotated.pdf) <br /> Reading - MLS 2.1, 2.2
-  - topic: Rigid Body Transformations in R^3
-    date: 2023-08-31
-    description: <br />[Lecture Slides](../assets/lec/L3-RotationandRigidMotions.pdf) <br /> [Boardwork](../assets/lec/L3-RotationandRigidMotions-annotated.pdf) <br /> Reading - MLS 2.3
-
+  - topic: Forward Kinematics of Robots
+    date: 2023-09-05
+    description: <br /> [Lecture Slides](../assets/lec/L4-RigidMotions.pdf) <br />  [Boardwork](../assets/lec/L4-RigidMotions-annotated.pdf) <br />Reading - MLS 3.2
+  - topic: Forward Kinematics of Robots (cont.)
+    date: 2023-09-07
+    description: <br /> [Lecture Slides](../assets/lec/L5-TwistsandScrews.pdf) <br /> [Boardwork](../assets/lec/L5-TwistsandScrews-annotated.pdf) <br /> Reading - MLS 3.2
+  
 ---
-- Lab 1: Introduction to ROS and Gazebo <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab1"> Starter Code </a> [Lab Doc](../assets/labs/lab1.pdf)
-- [Homework 1: Rotations and Reference Frames](../assets/hw/hw1.zip)
-- Discussion 1: Rotations [Worksheet](../assets/discussions/D1___Rotations.pdf) <a href="https://youtu.be/4Clk3Kg78HY">Video</a> [Solutions](../assets/discussions/D1___Rotations_solutions.pdf)
+
+- Lab 2: Writing Publisher/Subscriber Nodes in ROS <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab2"> Starter Code </a> [Lab Doc](../assets/labs/lab2.pdf)
+- [Homework 2: Exponential Coordinates](../assets/hw/hw2.zip)
+- Discussion 2: Exponential Coordinates [Worksheet](../assets/discussions/D2___Exponential_Coordinates.pdf) <a href="https://www.youtube.com/watch?v=AtCrWkYDGPc&list=PLqJJk1gbIJfCJ2x01WinxNhm1av3f44kq&index=4">Video</a> [Boardwork](../assets/discussions/D2_Exponential_Coordinates_Boardwork.pdf) [Solutions](../assets/discussions/D2_ExponentialCoords_soln.pdf)
 
 <a id="Week3"></a>

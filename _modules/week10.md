@@ -1,18 +1,19 @@
 ---
-title: Week 9
+title: Week 10
 days:
-  - topic: Dynamics of Robots, Lagrangian Dynamics
-    date: 2023-10-24
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 4.2
-  - topic: Control of Robot Manipulators
-    date: 2024-10-26
-    description: <br /> Lecture Slides <br /> Boardwork
+  - topic: Control of Robots (cont.)
+    date: 2023-10-31
+    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
+  - topic: Control (cont.)
+    date: 2023-11-02
+    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
 ---
 
-- Lab 7: Multiview Geometry and Feature Tracking [Lab Doc](../assets/labs/lab7.pdf) Video
-- [Homework 8: Dynamics](../assets/hw/hw8.zip) 
-  - [PDF](../assets/hw/hw8_assignment.pdf)
-- Discussion 9: Dynamics [Worksheet](../assets/discussions/D9.pdf) [Boardwork](../assets/discussions/disc_9_boardwork.pdf) [Solutions](../assets/discussions/D9-sol.pdf) <a href="https://youtu.be/gISyRQzipSQ">Video</a>
-- LOST Section 6: Jacobians [Notes](../assets/lost/LOST_Jacobians.pdf) [Video](https://youtu.be/Hc3BsMvElU8)
+- Lab 8: Building Occupancy Grids with STDR [Lab Doc](../assets/labs/lab8.pdf) 
+- [Homework 9: Control](../assets/hw/hw9.zip) 
+  - [PDF](../assets/hw/hw9_assignment.pdf)
+- Discussion 10: Control [Worksheet](../assets/discussions/D10_Control.pdf) [Boardwork](../assets/discussions/D10_Control_boardwork.pdf) [Solution](../assets/discussions/D10_Control_soln.pdf) [Video](https://youtu.be/Qyy5YsKKyZQ)
+- LOST Section 7: Dynamics [Notes](../assets/lost/LOST_Dynamics.pdf) [Video](https://youtu.be/VqTuPGxp5EQ)
 
 <a id="Week11"></a>
+

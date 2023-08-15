@@ -1,18 +1,13 @@
 ---
-title: Week 12
+title: Week 13
 days:
-  - topic: Midterm II
-    date: 2023-11-14
+  - topic: Miscellaneous Topics II
+    date: 2023-11-21
     description:
-  - topic: Miscellaneous Topics I
-    date: 2023-11-16
-    description:
+  - topic: No Class
+    date: 2023-11-23
+    description:  <br />  
 ---
-
-- **Midterm II on 11/15 in class**
-- Discussion 12: Design
-- Lab LOST Section Video Slides
-- Calendar for TA/LA appointments</a>
 
 
 <a id="Week14"></a>

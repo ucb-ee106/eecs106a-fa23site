@@ -1,16 +1,13 @@
 ---
-title: Week 14
+title: Week 15
 days:
-  - topic: Miscellaneous Topics III
-    date: 2023-11-28
-    description: 
-  - topic: Miscellaneous Topics IV
-    date: 2023-11-30
-    description: <br />  
+  - topic: Final Project Presentations
+    date: 2023-12-07
+    description: [Block 1] <br /> [Block 2]
+  - topic: Final Project Presentations
+    date: 2023-12-08
+    description: [Block 3] <br /> [Block 4] <br /> [Block 5]
 ---
-
+RRR Week: No Lectures
 
 <a id="Week16"></a>
-
-
-

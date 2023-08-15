@@ -1,5 +1,5 @@
 ---
-title: Week 1 - Welcome to EECS C106A/206A!
+title: Week 0 - Welcome to EECS C106A/206A!
 ---
 
 We're extremely excited to have you! It's going to be a great semester.
