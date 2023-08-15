@@ -1,14 +1,15 @@
 ---
 title: Week 14
 days:
-  - topic: Miscellaneous Topics III
+  - topic: Motion Planning II
     date: 2023-11-28
-    description: 
-  - topic: Miscellaneous Topics IV
+    description: (Slides) (Boardwork)
+  - topic: Miscellaneous Topics (UAVs/Walking/Autonomous Vehicles)
     date: 2023-11-30
-    description: <br />  
+    description: (Slides) (Boardwork)
 ---
 
+- Work on Final Projects
 
 <a id="Week15"></a>
 

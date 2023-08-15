@@ -1,19 +1,17 @@
 ---
 title: Week 10
 days:
-  - topic: Control of Robots (cont.)
+  - topic: Lagrangian Dynamics of Rigid Bodies and Kinematic Chains
     date: 2023-10-31
-    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
-  - topic: Control (cont.)
+    description: (Slides) (Boardwork)
+  - topic: State-Space Modeling and Linear Systems
     date: 2023-11-02
-    description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
+    description: (Slides) (Boardwork)
 ---
 
-- Lab 8: Building Occupancy Grids with STDR [Lab Doc](../assets/labs/lab8.pdf) 
-- [Homework 9: Control](../assets/hw/hw9.zip) 
-  - [PDF](../assets/hw/hw9_assignment.pdf)
-- Discussion 10: Control [Worksheet](../assets/discussions/D10_Control.pdf) [Boardwork](../assets/discussions/D10_Control_boardwork.pdf) [Solution](../assets/discussions/D10_Control_soln.pdf) [Video](https://youtu.be/Qyy5YsKKyZQ)
-- LOST Section 7: Dynamics [Notes](../assets/lost/LOST_Dynamics.pdf) [Video](https://youtu.be/VqTuPGxp5EQ)
+- Continue Labs 7 and 8
+- Homework 9: Control - due 11/13
+- Discussion 10: State-Space Modeling and Linear Systems (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week11"></a>
 

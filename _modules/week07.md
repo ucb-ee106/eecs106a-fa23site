@@ -1,18 +1,16 @@
 ---
 title: Week 7
 days:
-  - topic: Velocities, Twists and Screws
+  - topic: Computer Vision IV
     date: 2023-10-10
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 2.4
-  - topic:  Velocities, Twists, Screws & Manipulator Jacobian
+    description: (Slides) (Boardwork) <br> Reading - MLS 2.4
+  - topic:  Velocities
     date: 2023-10-12
-    description: <br /> Lecture Slides <br /> Boardwork <br /> Valmik's Slides <br /> Reading - MLS 2.4, 3.4
+    description: (Slides) (Boardwork) <br> Spatial / Body / Angular / Generalized Velocities <br> Reading - MLS 2.4, 3.4
 ---
 
-- Lab 6: Computer Vision [Lab Doc] Video
-- [Homework 6: Velocities](../assets/hw/hw6_assignment.pdf)
-- Discussion 7: Velocities [Worksheet](../assets/discussions/D7___Velocities_and_Adjoints.pdf) <a href="https://youtu.be/dWMAt8SyyHQ">Video</a> [Solutions](../assets/discussions/D7___Velocities_and_Adjoints_sol.pdf)
-- LOST Section 4: Computer Vision [Notes](../assets/lost/LOST_Computer_Vision.pdf) [Video](https://youtu.be/bhM2Xad7NKQ)
-- [Additional Velocities Notes from Isabella]
+- Continue Labs 5 and 6
+- Homework 6: Velocities - due 10/17
+- Discussion 7: Velocities
 
 <a id="Week8"></a>

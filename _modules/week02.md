@@ -1,17 +1,17 @@
 ---
 title: Week 2
 days:
-  - topic: Forward Kinematics of Robots
+  - topic: Rigid Body Transformations in $R^3$
     date: 2023-09-05
-    description: <br /> [Lecture Slides](../assets/lec/L4-RigidMotions.pdf) <br />  [Boardwork](../assets/lec/L4-RigidMotions-annotated.pdf) <br />Reading - MLS 3.2
-  - topic: Forward Kinematics of Robots (cont.)
+    description: (Slides) (Boardwork) <br> Quaternions / SE(3) / Twists <br> Reading - MLS 3.2
+  - topic: Representing Rigid Body Transformations
     date: 2023-09-07
-    description: <br /> [Lecture Slides](../assets/lec/L5-TwistsandScrews.pdf) <br /> [Boardwork](../assets/lec/L5-TwistsandScrews-annotated.pdf) <br /> Reading - MLS 3.2
+    description: (Slides) (Boardwork) <br> se(3) / Expontential Map / Screws <br> Reading - MLS 3.2
   
 ---
 
-- Lab 2: Writing Publisher/Subscriber Nodes in ROS <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab2"> Starter Code </a> [Lab Doc](../assets/labs/lab2.pdf)
-- [Homework 2: Exponential Coordinates](../assets/hw/hw2.zip)
-- Discussion 2: Exponential Coordinates [Worksheet](../assets/discussions/D2___Exponential_Coordinates.pdf) <a href="https://www.youtube.com/watch?v=AtCrWkYDGPc&list=PLqJJk1gbIJfCJ2x01WinxNhm1av3f44kq&index=4">Video</a> [Boardwork](../assets/discussions/D2_Exponential_Coordinates_Boardwork.pdf) [Solutions](../assets/discussions/D2_ExponentialCoords_soln.pdf)
+- Lab 2: Writing Publisher/Subscriber Nodes in ROS (Starter Code) (Lab Doc)
+- Homework 2: Exponential Coordinates - due 9/12
+- Discussion 2: Exponential Coordinates (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week3"></a>

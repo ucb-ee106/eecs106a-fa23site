@@ -1,16 +1,15 @@
 ---
 title: Week 11
 days:
-  - topic: Motion Planning Methods
+  - topic: Linear Control Theory and LQRs
     date: 2023-11-07
-    description: <br /> Lecture Slides <br /> [Boardwork]
-  - topic: Midterm II Review
+    description: (Slides) (Boardwork)
+  - topic: Computed Torque Control and Feedback Linearization
     date: 2023-11-09
-    description: <br /> [Review Slides](../assets/mt/mt2_review.pdf)
+    description: (Slides) (Boardwork)
 ---
 
 - Lab Buffer Week
-- Discussion 11: Midterm Peparation [Worksheet](../assets/discussions/Discussion_11_MT_Prep.pdf) [Boardwork](../assets/discussions/Discussion_11_Boardwork.pdf)
-- LOST Section 8: Controls [Notes](../assets/lost/LOST_Controls.pdf) [Video](https://youtu.be/HsSZ0eR6CzM)
+- Discussion 11: Linear Control Theory - LQR, PID, FB Lin. (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week12"></a>

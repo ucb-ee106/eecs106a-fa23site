@@ -3,11 +3,13 @@ title: Week 15
 days:
   - topic: Final Project Presentations
     date: 2023-12-07
-    description: [Block 1] <br /> [Block 2]
+    description: 
   - topic: Final Project Presentations
     date: 2023-12-08
-    description: [Block 3] <br /> [Block 4] <br /> [Block 5]
+    description: 
 ---
-RRR Week: No Lectures
+
+- RRR Week: No Lectures
+- Finish Final Projects
 
 <a id="Week16"></a>
