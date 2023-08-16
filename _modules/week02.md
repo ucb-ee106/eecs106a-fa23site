@@ -1,7 +1,7 @@
 ---
 title: Week 2
 days:
-  - topic: Rigid Body Transformations in $R^3$
+  - topic: Rigid Body Transformations in 3D
     date: 2023-09-05
     description: (Slides) (Boardwork) <br> Quaternions / SE(3) / Twists <br> Reading - MLS 3.2
   - topic: Representing Rigid Body Transformations
