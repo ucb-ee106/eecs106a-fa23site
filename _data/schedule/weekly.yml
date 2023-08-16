@@ -1,91 +1,118 @@
-timeline: [
-  '8:00 AM', '8:30 AM','9:00 AM', '9:30 AM', 
-  '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM',
-  '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM',
-  '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM',
-  '7:00 PM', '7:30 PM', '8:00 PM', '8:30 PM', '9:00 PM'
-]
+timeline:
+  [
+    "8:00 AM",
+    "8:30 AM",
+    "9:00 AM",
+    "9:30 AM",
+    "10:00 AM",
+    "10:30 AM",
+    "11:00 AM",
+    "11:30 AM",
+    "12:00 PM",
+    "12:30 PM",
+    "1:00 PM",
+    "1:30 PM",
+    "2:00 PM",
+    "2:30 PM",
+    "3:00 PM",
+    "3:30 PM",
+    "4:00 PM",
+    "4:30 PM",
+    "5:00 PM",
+    "5:30 PM",
+    "6:00 PM",
+    "6:30 PM",
+    "7:00 PM",
+    "7:30 PM",
+    "8:00 PM",
+    "8:30 PM",
+    "9:00 PM",
+  ]
 schedule:
   - name: Monday
     events:
       - name: Lab
         class: lab
+        start: 9:00 AM
+        end: 12:00 PM
+        tas: Eric
+        assistants: Anuj
+        location: Cory 105
+      - name: Lab
+        class: lab
         start: 12:00 PM
         end: 3:00 PM
-        tas: Emma
+        tas: Shrey
+        assistants: Chris
+        location: Cory 105
+      - name: Lab
+        class: lab
+        start: 4:00 PM
+        end: 7:00 PM
+        tas: Kirthi
+        assistants: Martin
+        location: Cory 105
+      - name: HW Party
+        class: hw-party
+        start: 7:00 PM
+        end: 9:00 PM
+        location: Cory 521
+        tas: Kaylene and Tarun
+  - name: Tuesday
+    events:
+      - name: Lecture
+        class: lecture
+        start: 2:00 PM
+        end: 3:30 PM
+        location: Dwinelle 145
+      - name: Lab
+        class: lab
+        start: 4:00 PM
+        end: 7:00 PM
+        tas: Mingyang
+        assistants: Anuj
+        location: Cory 105
+  - name: Wednesday
+    events:
+      - name: Lab
+        class: lab
+        start: 9:00 AM
+        end: 12:00 PM
+        tas: Eric
+        assistants: Chris
+        location: Cory 105
+      - name: Lab
+        class: lab
+        start: 12:00 PM
+        end: 3:00 PM
+        tas: Shrey
+        assistants: Karim
         location: Cory 105
       - name: Lab
         class: lab
         start: 3:00 PM
         end: 6:00 PM
-        tas: Han
+        tas: Mingyang
+        assistants: Charles
         location: Cory 105
-      - name: HW Party
-        class: hw-party
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Cory 521
-  - name: Tuesday
-    events:
-      - name: Lab
-        class: lab
-        start: 1:00 PM
-        end: 4:00 PM
-        tas: Han
-        location: Cory 105
-      - name: Lecture
-        class: lecture
-        start: 11:00 AM
-        end: 12:30 PM
-        location: Lewis 100
-  - name: Wednesday
-    events: 
-      - name: Lab
-        class: lab
-        start: 8:00 AM
-        end: 11:00 AM
-        tas: Riddhi
-        location: Cory 105
-      - name: Lab
-        class: lab
-        start: 11:00 AM
-        end: 2:00 PM
-        tas: Emma
-        location: Cory 105
-      - name: Lab
-        class: lab
-        start: 2:00 PM
-        end: 5:00 PM
-        tas: Riddhi
-        location: Cory 105
-      - name: LOST section
-        class: section 
-        start: 5:00 PM
-        end: 7:00 PM
-        location: Cory 212
   - name: Thursday
     events:
-      - name: Lab
-        class: lab
-        start: 1:00 PM
-        end: 4:00 PM
-        tas: Marius
-        location: Cory 105
       - name: Lecture
         class: lecture
-        start: 11:00 AM
-        end: 12:30 PM
-        location: Lewis 100
+        start: 2:00 PM
+        end: 3:30 PM
+        location: Dwinelle 145
       - name: Lab
         class: lab
         start: 4:00 PM
         end: 7:00 PM
-        tas: Marius
+        tas: Shrey
+        assistants: Martin
         location: Cory 105
       - name: Discussion
         class: section
-        start: 2:00 PM
-        end: 3:00 PM
+        start: 4:00 PM
+        end: 5:00 PM
         location: Cory 400
   - name: Friday
     events:
@@ -93,26 +120,23 @@ schedule:
         class: lab
         start: 9:00 AM
         end: 12:00 PM
-        tas: Han
+        tas: Shrey
+        assistants: Charles
         location: Cory 105
       - name: Lab
         class: lab
         start: 12:00 PM
         end: 3:00 PM
-        tas: Emma
+        tas: Kirthi
+        assistants: Karim
         location: Cory 105
       - name: Discussion
         class: section
-        start: 2:00 PM 
+        start: 2:00 PM
         end: 3:00 PM
         location: Cory 521
       - name: Discussion
         class: section
-        start: 3:00 PM 
+        start: 3:00 PM
         end: 4:00 PM
-        location: Cory 521
-      - name: HW Party
-        class: hw-party
-        start: 4:00 PM
-        end: 5:00 PM
         location: Cory 521
