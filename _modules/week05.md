@@ -3,7 +3,7 @@ title: Week 5
 days:
   - topic: Computer Vision I
     date: 2023-09-26
-    description: (Slides) (Boardwork) <br> Image Formation and Features <br> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
+    description: (Slides) (Boardwork) <br> Image Formation and Features <br> Reading - <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
   - topic: Midterm
     date: 2023-09-28
     description:
