@@ -136,8 +136,8 @@ Questions regarding homeworks, exams, lectures, and discussions should be direct
 ## Grade Breakdown
 
 |Homeworks| 20%|
-|Midterms| 30%|
 |Labs| 20%|
+|Midterms| 30%|
 |Final Project| 30%|
 
 ## Regrade Requests
