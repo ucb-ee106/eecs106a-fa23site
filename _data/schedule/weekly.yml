@@ -52,12 +52,7 @@ schedule:
         tas: Kirthi
         assistants: Martin
         location: Cory 105
-      - name: HW Party
-        class: hw-party
-        start: 7:00 PM
-        end: 9:00 PM
-        location: Cory 521
-        tas: Kaylene and Tarun
+      
   - name: Tuesday
     events:
       - name: Lecture
@@ -72,6 +67,7 @@ schedule:
         tas: Mingyang
         assistants: Anuj
         location: Cory 105
+
   - name: Wednesday
     events:
       - name: Lab
@@ -95,6 +91,7 @@ schedule:
         tas: Mingyang
         assistants: Charles
         location: Cory 105
+        
   - name: Thursday
     events:
       - name: Lecture
@@ -109,11 +106,7 @@ schedule:
         tas: Shrey
         assistants: Martin
         location: Cory 105
-      - name: Discussion
-        class: section
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Cory 400
+      
   - name: Friday
     events:
       - name: Lab
@@ -130,13 +123,4 @@ schedule:
         tas: Kirthi
         assistants: Karim
         location: Cory 105
-      - name: Discussion
-        class: section
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Cory 521
-      - name: Discussion
-        class: section
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Cory 521
+      
