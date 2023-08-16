@@ -8,104 +8,29 @@ timeline: [
 schedule:
   - name: Monday
     events:
-      - name: Content OH
-        class: contentoh
-        start: 2:00 PM
-        end: 3:00 PM
+      - name: Professor OH
+        class: profoh
+        start: 3:00 PM
+        end: 4:00 PM
         tas: Professor Sastry
         location: Cory 333
-      - name: Lab OH / Content OH
-        class: mixedoh
-        start: 11:00 AM
-        end: 12:00 PM
-        tas: Emma / Professor Sreenath
-        location: Cory 105/ Etcheverry 5132
-      - name: Content OH
-        class: contentoh
-        start: 1:00 PM
-        end: 2:00 PM
-        tas: Tarun
-        location: Cory 504
       
   - name: Tuesday
     events:
-      - name: Lab OH / Content OH
-        class: mixedoh
-        start: 10:00 AM
-        end: 11:00 AM
-        tas: Emma / Sunay
-        location: Cory 105
-      - name: Content OH
-        class: contentoh
-        start: 4:00 PM
-        end: 6:00 PM
-        tas: Massimiliano
-        location: Cory 105
-      - name: Lab/Admin OH
-        class: laboh
-        start: 6:00 PM
-        end: 8:00 PM
-        tas: Riddhi
-        location: Cory 105
-      - name: Lab OH
-        class: laboh
-        start: 8:00 AM
-        end: 9:30 AM
-        tas: Han
-        location: Cory 105
-      - name: Content OH
-        class: contentoh
-        start: 12:30 PM
-        end: 1:30 PM
-        tas: Professor Sreenath
-        location: Etcheverry 5132
+      
       
   - name: Wednesday
     events:
-      - name: Content OH
-        class: contentoh
-        start: 11:00 AM
-        end: 12:00 PM
+      - name: Professor OH
+        class: profoh
+        start: 2:00 PM
+        end: 3:00 PM
         tas: Professor Sastry
         location: Cory 333
       
   - name: Thursday
     events:
-      - name: Lab OH
-        class: laboh
-        start: 8:00 AM
-        end: 9:30 AM
-        tas: Han
-        location: Cory 105
-      - name: Lab OH
-        class: laboh
-        start: 9:30 AM
-        end: 10:00 AM
-        tas: Marius
-        location: Cory 105
-      - name: Lab OH / Content OH
-        class: mixedoh
-        start: 10:00 AM
-        end: 11:00 AM
-        tas: Marius / Sunay
-        location: Cory 105
-      - name: Lab OH
-        class: laboh
-        start: 7:00 PM
-        end: 8:00 PM
-        tas: Emma
-        location: Cory 105
-      # - name: Content OH
-      #   class: contentoh
-      #   start: 10:00 AM
-      #   end: 11:00 AM
-      #   tas: Sunay
-      - name: Content OH
-        class: contentoh
-        start: 3:00 PM
-        end: 4:00 PM
-        tas: Tarun
-        location: Soda 373
+      
 
       
   - name: Friday
