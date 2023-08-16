@@ -29,7 +29,7 @@ Each week, there are 3 hours of lecture, 3 hours of lab sections, and 1 hour of 
 Lecture attendance is not mandatory, but we highly recommend attending live if possible to ask questions and engage fully with the material. Lectures will be held synchronously on Tuesdays and Thursdays, 2:00 - 3:30pm, in Dwinelle 145. They will be recorded and posted for students who cannot attend live.
 
 ## Discussions
-Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended but not mandatory.
+Discussion sections will be held on Thursday 4:00pm - 5:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended but not mandatory.
 
 Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. 
 
@@ -40,18 +40,18 @@ Homeworks will be collected and graded using Gradescope. Create an account on gr
 There will be a total of 10 homeworks, due weekly through mid-November (with the exception of midterm weeks). Homework will be released in the evening each Wednesday, starting August 25 (the first day of class). You will have until 11:59pm the following Tuesday to complete each assignment.
 
 |**Assignment**|**Assigned @5pm**|**Due @11:59pm**|
-| HW 0 | 08/25 | 08/30 |
-| HW 1 | 08/31 | 09/06 |
-| HW 2 | 09/07 | 09/13 |
-| HW 3 | 09/14 | 09/20 |
-| HW 4 | 09/21 | 09/27 |
-| HW 5 | 10/05 | 10/11 |
-| HW 6 | 10/12 | 10/18 |
-| HW 7 | 10/19 | 10/25 |
-| HW 8 | 10/26 | 11/01 |
-| HW 9 | 11/02 | 11/08 |
+| HW 0: Linear Algebra Review | 08/24 | 08/29 |
+| HW 1: Rotations and Reference Frames | 08/30 | 09/05 |
+| HW 2: Exponential Coordinates | 09/06 | 09/12 |
+| HW 3: Forward Kinematics | 09/13 | 09/19 |
+| HW 4: Inverse Kinematics | 09/20 | 09/25 |
+| HW 5: Vision | 10/03 | 10/10 |
+| HW 6: Velocities | 10/11 | 10/17 |
+| HW 7: Jacobians and Singularities | 10/18 | 10/26 |
+| HW 8: Dynamics | 10/27 | 11/02 |
+| HW 9: Control | 11/03 | 11/13 |
 
-Each student is allocated 5 total days of extension (also known as *slip days*), to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After using all extension days, homeworks will not receive credit. Note: Homework will not be accepted more than two days past the due date, barring extenuating circumstances.
+Each student is allocated 5 total days of extension (also known as *slip days*), to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After using all extension days, homeworks will not receive credit. Note: Homework will not be accepted more than two days past the due date, barring extenuating circumstances. Also, homeworks prior to the midterm will not be allowed slip days because we want to release solutions for you to study.
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
@@ -63,7 +63,7 @@ Additionally, you will receive one homework drop if you complete **both** post-m
 
 Labs must be done in person to receive full credit. Students will be working with hardware in the labs.
 
-Lab sections will meet each week beginning the first full week of classes (starting 8/29) and will run through the week of November 12. We will do our best to assign you to a lab section that you are regularly able to attend, as we rely on an even distribution of students for fair access to support from course staff. You will complete each lab with one partner; no groups of three will be allowed. In lieu of formal reports, labs are completed by discussing your system with and demonstrating its functionality to your lab GSI during various “check-offs” specified in each lab description. **Note that all students who are being checked off must be present at the time of the check-off, in the interest of making sure everyone can fully explain the code and system functionality.** 
+Lab sections will meet each week beginning the first full week of classes (starting 8/29) and will run through the week of November 12. You will sign up for sections at 8:30pm on Thursday, August 24th using the link sent in the initial announcement email. You will complete each lab with one partner; no groups of three will be allowed. In lieu of formal reports, labs are completed by discussing your system with and demonstrating its functionality to your lab GSI during various “check-offs” specified in each lab description. **Note that all students who are being checked off must be present at the time of the check-off, in the interest of making sure everyone can fully explain the code and system functionality.** 
 
 Labs may be worked on outside of class hours. Additionally, labs may be checked off at the office hours of any Lab TA, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
 
@@ -73,7 +73,6 @@ Labs should ideally be completed by the end of your assigned lab section and are
 - Labs 3-8 occur in Modules of two labs each (3 & 4, 5 & 6, 7 & 8); each Module is dependent on the previous Module, but labs within each Module are not dependent on each other. Modules are 3 weeks long. 
 - At the start of each Module, both labs will be released. Half of the students in each section will work on the even numbered lab, while the other half will work on the odd numbered lab during the first week. The groups will switch during the second week. The third and final week of the Module is a buffer week, intended to be used if you were unable to complete the lab(s) during this module. 
 - You will receive full credit for any check-offs during the buffer week for any labs in the current module. Both labs from the module are due at the start of your lab section the week after your buffer week (ie: the start of the lab when you begin a new Module).
-- Week 3 of Module 3 will also be used to provide final project feedback
 
 *The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may **not** check off that assignment at the start of class for full credit; it must be checked off **beforehand**. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.* 
 
@@ -81,14 +80,14 @@ If you miss the checkoff deadline for a lab, you will have one week after the du
 
 
 |**Lab**|**Assigned**|**Due Week Of**|
-| Lab 1 | 08/28 | 09/04 |
-| Lab 2 | 09/04 | 09/11 |
-| Lab 3 | 09/11 | 10/02 |
-| Lab 4 | 09/11 | 10/02 |
-| Lab 5 | 10/02 | 10/23 |
-| Lab 6 | 10/02 | 10/23 |
-| Lab 7 | 10/23 | 11/13 |
-| Lab 8 | 10/23 | 11/13 |
+| Lab 1: Intro to ROS | 08/28 | 09/03 |
+| Lab 2: Publishers/Subscribers in ROS | 09/04 | 09/10 |
+| Lab 3: Forward Kinematics/Coordinate Transforms | 09/11 | 10/01 |
+| Lab 4: Intro to Mobile Robots | 09/11 | 10/01 |
+| Lab 5: Inverse Kinematics | 10/02 | 10/22 |
+| Lab 6: Computer Vision | 10/02 | 10/22 |
+| Lab 7: Path Planning | 10/23 | 11/12 |
+| Lab 8: Mapping with Occupancy Grids | 10/23 | 11/12 |
 
 
 We understand that these policies are a bit nuanced,  and if you have questions, please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
@@ -98,8 +97,7 @@ We understand that these policies are a bit nuanced,  and if you have questions,
 
 ## Midterms
 
-There will be two midterms covering the course material, on **Thursday, September 29**, and **Tuesday, November 15**. The midterms will be held in person during class time.
-Students will be allowed a cheat sheet.
+There will be two midterms covering the course material, on **Thursday, September 28**, and **Thursday, November 16**. The midterms will be held in person during class time. Students will be allowed a cheat sheet.
 
 <!-- ## Lost and Overwhelmed Students’ Turnabout (LOST) Section
 
@@ -110,7 +108,7 @@ This section is NOT intended to be used as a review session. -->
 
 ## Final Project
 
-The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Project deliverables include a proposal, a video, a live demo, a final report, and several intermediate check-ins. Further information will be forthcoming. Due to the types of deliverables involved (e.g., live demonstrations), extension days may not be used on project deliverables, and late work will not be accepted.
+The final project is a major part of your grade for this course and must include sensing, planning, and actuation components on real hardware. Project deliverables include a proposal, a video, a live demo, a final report, and several intermediate check-ins. Further information will be forthcoming. Due to the types of deliverables involved (e.g., live demonstrations), extension days may not be used on project deliverables, and late work will not be accepted.
 
 All students must complete a final project. Failure to complete a final project will result in a failing grade.
 
@@ -138,9 +136,9 @@ Questions regarding homeworks, exams, lectures, and discussions should be direct
 ## Grade Breakdown
 
 |Homeworks| 20%|
-|Midterms| 20%|
+|Midterms| 30%|
 |Labs| 20%|
-|Final Project| 40%|
+|Final Project| 30%|
 
 ## Regrade Requests
 
