@@ -46,6 +46,18 @@ schedule:
 
   - name: Tuesday
     events:
+      - name: Lab OH
+        class: laboh
+        start: 9:00 AM
+        end: 10:00 AM
+        tas: Shrey
+        location: Cory 105
+      - name: Lab OH
+        class: laboh
+        start: 10:00 AM
+        end: 12:00 PM
+        tas: Mingyang
+        location: Cory 105
 
   - name: Wednesday
     events:
@@ -55,6 +67,12 @@ schedule:
         end: 3:00 PM
         tas: Professor Sastry
         location: Cory 333
+      - name: Lab OH
+        class: laboh
+        start: 4:00 PM
+        end: 5:00 PM
+        tas: Kirthi
+        location: Cory 105
 
   - name: Thursday
     events:
