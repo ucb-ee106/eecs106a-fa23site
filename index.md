@@ -8,7 +8,8 @@ description: >-
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106A/206A | Introduction to Robotics
 {: .mb-2 }
-Fall 2023 | Instructors: Professors Koushil Sreenath and Shankar Sastry
+Fall 2023
+Professors Koushil Sreenath and Shankar Sastry
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 <hr>
