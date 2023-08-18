@@ -2,7 +2,7 @@
 name: Shrey Aeron
 role: Lab TA
 email: aeron@
-photo: assets/staff_pics/lab_ta/shrey.jpeg
+photo: assets/staff_pics/lab_ta/shrey.jpg
 ---
 
 Lab GSI
