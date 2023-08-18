@@ -84,16 +84,16 @@ schedule:
         tas: Shrey
         assistants: Karim
         location: Cory 105
+
+  - name: Thursday
+    events:
       - name: Lab
         class: lab
-        start: 3:00 PM
-        end: 6:00 PM
+        start: 9:00 AM
+        end: 12:00 PM
         tas: Mingyang
         assistants: Charles
         location: Cory 105
-        
-  - name: Thursday
-    events:
       - name: Lecture
         class: lecture
         start: 2:00 PM
