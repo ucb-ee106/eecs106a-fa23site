@@ -1,7 +1,7 @@
 ---
 name: Mingyang Wang
 role: Lab TA
-email: tarunamarnath@
+email: saltyminty@
 photo: assets/staff_pics/lab_ta/mingyang.jpeg
 ---
 
