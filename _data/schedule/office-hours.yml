@@ -48,7 +48,7 @@ schedule:
     events:
       - name: Lab OH
         class: laboh
-        start: 9:00 AM
+        start: 8:00 AM
         end: 10:00 AM
         tas: Shrey
         location: Cory 105
