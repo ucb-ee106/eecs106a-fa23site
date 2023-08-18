@@ -1,7 +1,7 @@
 ---
 name: Anuj Raichura
 role: Lab Assistant
-email: tarunamarnath@
+email: anj27@
 photo: assets/staff_pics/assistant/anuj.jpg
 ---
 

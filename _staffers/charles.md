@@ -1,7 +1,7 @@
 ---
 name: Charles Xu
 role: Lab Assistant
-email: tarunamarnath@
+email: xuc@
 photo: assets/staff_pics/assistant/charles.jpg
 ---
 

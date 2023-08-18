@@ -1,7 +1,7 @@
 ---
 name: Martin Zeng
 role: Lab Assistant
-email: tarunamarnath@
+email: martinz@
 photo: assets/staff_pics/assistant/martin.jpg
 ---
 
