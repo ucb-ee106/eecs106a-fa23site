@@ -2,7 +2,7 @@
 name: Mingyang Wang
 role: Lab TA
 email: tarunamarnath@
-photo: assets/staff_pics/content_ta/mingyang.jpeg
+photo: assets/staff_pics/lab_ta/mingyang.jpeg
 ---
 
 Lab UGSI
