@@ -76,6 +76,12 @@ schedule:
 
   - name: Thursday
     events:
+      - name: Lab OH
+        class: laboh
+        start: 1:00 PM
+        end: 2:00 PM
+        tas: Eric
+        location: Cory 105
       - name: Discussion
         class: section
         start: 4:00 PM
