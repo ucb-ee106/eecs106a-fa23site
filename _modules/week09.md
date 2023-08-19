@@ -13,5 +13,6 @@ days:
 - Lab 8: Mapping with Occupancy Grids
 - Homework 8: Dynamics - due 11/2
 - Discussion 9: Dynamics (Worksheet) (Video) (Boardwork) (Solutions)
+- Work on Final Projects
 
 <a id="Week10"></a>

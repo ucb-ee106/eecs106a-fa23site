@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork)
 ---
 
-- Work on Final Projects
+- Final Project Check-In II this week
 
 <a id="Week15"></a>
 

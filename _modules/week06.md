@@ -13,6 +13,7 @@ days:
 - Lab 6: Computer Vision
 - Homework 5: Computer Vision - due 10/10
 - Discussion 6: Vision (Worksheet) (Video) (Boardwork) (Solutions)
+- Mini-Proposal due Friday 10/6, feedback over the weekend
 
 
 <a id="Week7"></a>

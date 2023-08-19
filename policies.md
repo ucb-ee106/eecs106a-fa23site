@@ -112,6 +112,17 @@ The final project is a major part of your grade for this course and must include
 
 All students must complete a final project. Failure to complete a final project will result in a failing grade.
 
+|**Assignment**|**Due Date**|
+| Final Project Released | 09/28 |
+| Mini Proposal | 10/06 |
+| Mini Proposal Feedback | Week of 10/08 |
+| Final Proposal | 10/20 |
+| Check-In 1 | 11/09 |
+| Check-In 2 | Week of 11/26 |
+| Presentation Day 1 | 12/07 |
+| Presentation Day 2 | 12/08 |
+| Website Due | 12/15 |
+
 ## Office Hours
 
 The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, we will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.

@@ -13,5 +13,6 @@ days:
 - Lab Buffer Week
 - No new homework this week
 - Discussion 5: Final Project Ideation (Final Project Guidelines)
+- Mini-Proposal due 10/6
 
 <a id="Week6"></a>
