@@ -18,15 +18,13 @@ description: >-
 ---
 ## Lab Resources
 
-- [Linear Algebra Review](assets/discussions/math_review.pdf)
-- [Python Intro](assets/labs/resources/python_intro.pdf)
-- [ROS Cheat Sheet](assets/labs/resources/ROS_cheat_sheet.pdf)
-- [Linux Intro](assets/labs/resources/linux_intro.pdf)
-- [NumPy Notes](assets/labs/resources/numpy_notes.pdf)
-- [ROS Installation](assets/labs/resources/ROS_installation.pdf)
-- Tiffany's Python & NumPy Crash Course [Video](https://www.youtube.com/watch?v=VJqbBfldUA0) [Slides](https://docs.google.com/presentation/d/1eIrtNVbQjC0Q-ueunNR6APtRpLtZBzlFfeABmp63eNw/edit?usp=sharing)
-- Stella's Linux Bootcamp [Video](https://www.youtube.com/watch?v=fpt1wutdu10) [Slides](https://docs.google.com/presentation/d/1Yip52Hs7v36rLFD6M4RlU22KnoVtl5WQV0TBaejjsr0/edit?usp=sharing)
+- [Linear Algebra Review](assets/resources/math_review.pdf)
+- [ROS Cheat Sheet](assets/resources/ROS_cheat_sheet.pdf)
+- [Linux Intro](assets/resources/linux_intro.pdf)
+- [NumPy Notes](assets/resources/numpy_notes.pdf)
 - Ron's ROS Basics [Video](https://www.youtube.com/watch?v=qFVtJcGoJvw)
+
+More coming soon!
 
 ## Lecture Supplements 
 The primary texts are

@@ -12,5 +12,6 @@ days:
 - Lab Buffer Week
 - Homework 7: Jacobians & Singularities - due 10/26
 - Discussion 8: Jacobians (Worksheet) (Video) (Boardwork) (Solutions)
+- Final Project Proposal due Friday
 
 <a id="Week9"></a>

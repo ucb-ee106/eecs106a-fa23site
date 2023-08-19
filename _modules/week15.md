@@ -10,6 +10,7 @@ days:
 ---
 
 - RRR Week: No Lectures
-- Finish Final Projects
+- Final Project Presentations on Thursday and Friday
+
 
 <a id="Week16"></a>
