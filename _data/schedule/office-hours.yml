@@ -69,7 +69,7 @@ schedule:
         location: Cory 333
       - name: Lab OH
         class: laboh
-        start: 4:00 PM
+        start: 3:00 PM
         end: 5:00 PM
         tas: Kirthi
         location: Cory 105
@@ -100,10 +100,3 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: Cory 521
-      - name: Lab OH
-        class: laboh
-        start: 5:00 PM
-        end: 6:00 PM
-        tas: Kirthi
-        location: Cory 105
-
