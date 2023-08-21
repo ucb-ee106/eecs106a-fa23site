@@ -31,12 +31,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Professor OH
-        class: profoh
-        start: 3:00 PM
-        end: 4:00 PM
-        tas: Professor Sastry
-        location: Cory 333
       - name: HW Party
         class: hw-party
         start: 7:00 PM
