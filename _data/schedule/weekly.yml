@@ -47,8 +47,8 @@ schedule:
         location: Cory 105
       - name: Lab
         class: lab
-        start: 5:00 PM
-        end: 8:00 PM
+        start: 4:00 PM
+        end: 7:00 PM
         tas: Kirthi
         assistants: Martin
         location: Cory 105
