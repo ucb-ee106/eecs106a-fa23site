@@ -31,12 +31,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Professor OH
-        class: profoh
-        start: 3:00 PM
-        end: 4:00 PM
-        tas: Professor Sastry
-        location: Cory 333
       - name: HW Party
         class: hw-party
         start: 7:00 PM
@@ -58,9 +52,21 @@ schedule:
         end: 12:00 PM
         tas: Mingyang
         location: Cory 105
+      - name: Content OH
+        class: contentoh 
+        start: 12:30 PM
+        end: 2:00 PM
+        tas: Kaylene
+        location: Cory 105
 
   - name: Wednesday
     events:
+      - name: Professor OH
+        class: profoh
+        start: 10:00 AM
+        end: 11:00 AM
+        tas: Professor Sreenath
+        location: 5132 Etcheverry Hall
       - name: Professor OH
         class: profoh
         start: 2:00 PM
@@ -69,16 +75,22 @@ schedule:
         location: Cory 333
       - name: Lab OH
         class: laboh
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 3:00 PM
+        end: 3:30 PM
         tas: Kirthi
+        location: Cory 105
+      - name: Content & Lab OH
+        class: mixedoh
+        start: 3:30 PM
+        end: 5:00 PM
+        tas: Kirthi and Kaylene
         location: Cory 105
 
   - name: Thursday
     events:
       - name: Lab OH
         class: laboh
-        start: 1:00 PM
+        start: 12:00 PM
         end: 2:00 PM
         tas: Eric
         location: Cory 105
@@ -87,6 +99,13 @@ schedule:
         start: 4:00 PM
         end: 5:00 PM
         location: TBD
+      - name: Content and Admin OH
+        class: contentoh
+        start: 7:00 PM
+        end: 8:00 PM
+        tas: Tarun
+        location: Cory 105
+        
   - name: Friday
     events:
       - name: Discussion
@@ -99,10 +118,3 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: TBD
-      - name: Lab OH
-        class: laboh
-        start: 5:00 PM
-        end: 6:00 PM
-        tas: Kirthi
-        location: Cory 105
-

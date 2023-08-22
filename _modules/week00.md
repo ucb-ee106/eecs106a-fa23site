@@ -9,6 +9,6 @@ days:
     description: (Logistics Slides) (Lecture Slides)
 ---
 - Homework 0: Linear Algebra Review - due 8/29
-- Discussion 0: Introduction (Worksheet) (Video) (Boardwork) (Solutions)
+- [Python Bootcamp](../assets/resources/Python_Bootcamp.zip)
 
 <a id="Week1"></a>
