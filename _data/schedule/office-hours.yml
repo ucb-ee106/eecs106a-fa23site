@@ -86,20 +86,19 @@ schedule:
         class: section
         start: 4:00 PM
         end: 5:00 PM
-        location: Cory 400
-
+        location: TBD
   - name: Friday
     events:
       - name: Discussion
         class: section
         start: 2:00 PM
         end: 3:00 PM
-        location: Cory 521
+        location: TBD
       - name: Discussion
         class: section
         start: 3:00 PM
         end: 4:00 PM
-        location: Cory 521
+        location: TBD
       - name: Lab OH
         class: laboh
         start: 5:00 PM

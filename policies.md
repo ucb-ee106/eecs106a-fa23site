@@ -29,7 +29,7 @@ Each week, there are 3 hours of lecture, 3 hours of lab sections, and 1 hour of 
 Lecture attendance is not mandatory, but we highly recommend attending live if possible to ask questions and engage fully with the material. Lectures will be held synchronously on Tuesdays and Thursdays, 2:00 - 3:30pm, in Dwinelle 145. They will be recorded and posted for students who cannot attend live.
 
 ## Discussions
-Discussion sections will be held on Thursday 4:00pm - 5:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended but not mandatory.
+Discussion sections will be held on Thursday 4:00pm - 5:00pm, Friday 2:00pm - 3:00pm, and Friday 3:00pm - 4:00pm (rooms TBD). They will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is recommended but not mandatory.
 
 Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. 
 
