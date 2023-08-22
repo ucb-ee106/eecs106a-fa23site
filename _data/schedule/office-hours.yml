@@ -42,12 +42,6 @@ schedule:
     events:
       - name: Lab OH
         class: laboh
-        start: 8:00 AM
-        end: 10:00 AM
-        tas: Shrey
-        location: Cory 105
-      - name: Lab OH
-        class: laboh
         start: 10:00 AM
         end: 12:00 PM
         tas: Mingyang
@@ -105,7 +99,7 @@ schedule:
         end: 8:00 PM
         tas: Tarun
         location: Cory 105
-        
+
   - name: Friday
     events:
       - name: Discussion
@@ -118,3 +112,9 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: TBD
+      - name: Lab OH
+        class: laboh
+        start: 6:00 PM
+        end: 8:00 PM
+        tas: Shrey
+        location: Cory 105
