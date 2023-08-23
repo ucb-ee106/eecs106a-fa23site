@@ -9,7 +9,7 @@ description: >-
 # EECS C106A/206A | Introduction to Robotics
 {: .mb-2 }
 
-Fall 2023
+## Fall 2023
 
 Professors Koushil Sreenath and Shankar Sastry
 {: .mb-0 .fs-6 .text-grey-dk-200 }
