@@ -35,7 +35,7 @@ schedule:
         class: hw-party
         start: 7:00 PM
         end: 9:00 PM
-        location: Cory 521
+        location: Cory 540AB
         tas: Kaylene and Tarun
 
   - name: Tuesday
