@@ -8,7 +8,7 @@ days:
     date: 2023-08-24
     description: (Logistics Slides) (Lecture Slides)
 ---
-- Homework 0: Linear Algebra Review - due 8/29
+- [Homework 0: Linear Algebra Review](../assets/homework/hw0_linalg.pdf) - due 8/29
 - [Python Bootcamp](../assets/resources/Python_Bootcamp.zip)
 
 <a id="Week1"></a>
