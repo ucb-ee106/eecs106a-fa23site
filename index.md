@@ -25,7 +25,7 @@ Professors Koushil Sreenath and Shankar Sastry
 
 # Course Calendar
 
-#### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1527423)
+#### All lecture slides and videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1527423)
 
 {{site.modules[0]}}
 
