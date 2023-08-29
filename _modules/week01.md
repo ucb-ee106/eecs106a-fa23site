@@ -10,7 +10,7 @@ days:
 
 ---
 - Lab 1: Introduction to ROS <a href="https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab1"> Starter Code </a> [Lab Doc](./assets/labs/lab1.pdf) 
-- Homework 1: Rotations and Reference Frames - due 9/5
+- Homework 1: Rotations and Reference Frames - due 9/6
 - Discussion 1: Rotations (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week2"></a>
