@@ -41,7 +41,7 @@ There will be a total of 10 homeworks, due weekly through mid-November (with the
 
 |**Assignment**|**Assigned @5pm**|**Due @11:59pm**|
 | HW 0: Linear Algebra Review | 08/24 | 08/29 |
-| HW 1: Rotations and Reference Frames | 08/30 | 09/05 |
+| HW 1: Rotations and Reference Frames | 08/30 | 09/06 |
 | HW 2: Exponential Coordinates | 09/06 | 09/12 |
 | HW 3: Forward Kinematics | 09/13 | 09/19 |
 | HW 4: Inverse Kinematics | 09/20 | 09/25 |
@@ -52,6 +52,8 @@ There will be a total of 10 homeworks, due weekly through mid-November (with the
 | HW 9: Control | 11/03 | 11/13 |
 
 Each student is allocated 5 total days of extension (also known as *slip days*), to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After using all extension days, homeworks will not receive credit. Note: Homework will not be accepted more than two days past the due date, barring extenuating circumstances. Also, homeworks prior to the midterm will not be allowed slip days because we want to release solutions for you to study.
+
+We are instituting an 80% threshold for homework to alleviate stress! Any score equal to or above 80% on an assignment will be calculated as a 100%. If you receive a grade below 80%, it will be divided by 0.8 (so a 50% becomes a 62.5%).
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 

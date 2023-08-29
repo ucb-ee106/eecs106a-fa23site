@@ -7,4 +7,4 @@ photo: assets/staff_pics/lab_ta/eric.jpg
 
 Lab UGSI
 
-I research computer vision and control for autonomous racecars and drones. I love reading, exercising, and building computers :D
+I'm a senior majoring in EECS and research computer vision, control, and machine learning for autonomous Indy racecars (150+ mph) and drones. I love reading, exercising, bouldering and building computers :D
