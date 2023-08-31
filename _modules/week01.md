@@ -14,4 +14,4 @@ days:
   - [Starter Code](./assets/homework/hw1_starter.zip)
 - Discussion 1: Rotations (Worksheet) (Video) (Boardwork) (Solutions)
 
-<a id="Week2"></a>
+<a id="Week2"></a> 
