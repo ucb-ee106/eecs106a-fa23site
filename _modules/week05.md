@@ -9,7 +9,7 @@ days:
     description:
 ---
 
-- **Midterm I 09/29 in class**
+- **Midterm I 09/28 in class**
 - Lab Buffer Week
 - No new homework this week
 - Discussion 5: Final Project Ideation (Final Project Guidelines)
