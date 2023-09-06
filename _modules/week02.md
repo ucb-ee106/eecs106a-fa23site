@@ -3,7 +3,7 @@ title: Week 2
 days:
   - topic: Rigid Body Transformations in 3D
     date: 2023-09-05
-    description: (Slides) (Boardwork) <br> Quaternions / SE(3) / Twists <br> Reading - MLS 3.2
+    description: ([Slides](https://bcourses.berkeley.edu/courses/1527423/files/86743019?module_item_id=16904585)) ([Boardwork](https://bcourses.berkeley.edu/courses/1527423/files/86748313?module_item_id=16904982)) <br> Quaternions / SE(3) / Twists <br> Reading - MLS 3.2
   - topic: Representing Rigid Body Transformations
     date: 2023-09-07
     description: (Slides) (Boardwork) <br> se(3) / Expontential Map / Screws <br> Reading - MLS 3.2
