@@ -11,7 +11,8 @@ days:
 ---
 
 - Lab 2: Writing Publisher/Subscriber Nodes in ROS (Starter Code) (Lab Doc)
-- Homework 2: Exponential Coordinates - due 9/12
+- [Homework 2: Exponential Coordinates](./assets/homework/hw2_exp.pdf) - due 9/12
+  - [Starter Code](./assets/homework/hw2_starter.zip)
 - Discussion 2: Exponential Coordinates (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week3"></a>
