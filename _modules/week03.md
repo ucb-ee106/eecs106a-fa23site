@@ -14,5 +14,6 @@ days:
 - Lab 4: Introduction to Mobile Robots
 - Homework 3: Forward Kinematics - due 9/19
 - Discussion 3: Forward Kinematics (Worksheet) (Video) (Boardwork) (Solutions)
+- [Robot Usage Guide](./assets/labs/robot_usage_guide_fa23.pdf)
 
 <a id="Week4"></a>
