@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 2
 ---
 
 - [Homework 1](./assets/homework/hw1_rotations.pdf) due Wednesday 9/6 at 11:59pm.

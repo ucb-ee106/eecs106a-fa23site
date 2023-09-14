@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 3
 ---
 
 - [Homework 2](./assets/homework/hw2_exp.pdf) due Tuesday 9/12 at 11:59pm.
