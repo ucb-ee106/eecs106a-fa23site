@@ -3,10 +3,10 @@ title: Week 3
 days:
   - topic: Screws and Forward Kinematics I
     date: 2023-09-12
-    description: (Slides) (Boardwork) <br> Screws - Twists / Chasle's / Jointspace + FK <br> Reading - MLS 3.2
+    description: ([Slides](https://bcourses.berkeley.edu/courses/1527423/files/86817505?module_item_id=16909792)) ([Boardwork](https://bcourses.berkeley.edu/courses/1527423/files/86828995?module_item_id=16910695)) <br> Screws - Twists / Chasle's / Jointspace + FK <br> Reading - MLS 3.2
   - topic: Forward Kinematics II
     date: 2023-09-14
-    description: (Slides) (Boardwork) <br> Product of Exponentials / Examples <br> Reading - MLS 3.2
+    description: ([Slides](https://bcourses.berkeley.edu/courses/1527423/files/86841506?module_item_id=16911367)) ([Boardwork](https://bcourses.berkeley.edu/courses/1527423/files/86845372?module_item_id=16911568)) <br> Product of Exponentials / Examples <br> Reading - MLS 3.2
 
 ---
 
