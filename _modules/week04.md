@@ -11,7 +11,7 @@ days:
 
 - Continue Labs 3 and 4
 - [Homework 4: Inverse Kinematics](./assets/homework/hw4_ik.pdf) - due 9/25
-- Discussion 4: Inverse Kinematics (Worksheet) (Video) (Boardwork) (Solutions)
+- Discussion 4: Inverse Kinematics ([Worksheet](./assets/disc/disc4_ik.pdf)) (Video) (Boardwork) ([Solutions]((./assets/disc/disc4_ik.pdf)))
 - Practice Midterms on Ed
 
 <a id="Week5"></a>
