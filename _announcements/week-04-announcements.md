@@ -6,7 +6,7 @@ title: Week 4
     - [Starter Code](./assets/homework/hw3_starter.zip)
 - [Lab 3](https://ucb-ee106.github.io/eecs106a-fa23site/assets/labs/lab3.pdf) and [Lab 4](https://ucb-ee106.github.io/eecs106a-fa23site/assets/labs/lab4.pdf) continue
 - [Homework 4](./assets/homework/hw4_ik.pdf) due next Monday (9/25)
-- [Discussion 4: Inverse Kinematics](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_ik.pdf) ([Boardwork](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_boardwork.pdf)) ([Solutions](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_sols.pdf))
+- [Discussion 4: Inverse Kinematics](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_ik.pdf) ([Boardwork](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_boardwork.pdf)) ([Solutions](https://ucb-ee106.github.io/eecs106a-fa23site/assets/disc/disc4_sols.pdf)) ([Video](https://youtu.be/mUQYTS2As70))
 - Midterm I next Thursday (9/28)
 
 <a href="#Week4">Jump to Week 4 </a>
