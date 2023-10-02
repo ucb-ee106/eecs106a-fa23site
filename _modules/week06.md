@@ -9,11 +9,10 @@ days:
     description: (Slides) (Boardwork) <br> Two-View Geometry <br> Reading - <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
 ---
 
-- Lab 5: Inverse Kinematics and Path Planning ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab5)) ([Lab Doc](./assets/labs/lab5.pdf))
-- Lab 6: Building Occupancy Grids with TurtleBot ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab6)) ([Lab Doc](./assets/labs/lab6.pdf))
+- Lab 5: Inverse Kinematics and Path Planning ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab5)) ([Lab Doc](./assets/labs/lab5.pdf)) ([Slides](./assets/labs/lab5_6_slides.pdf))
+- Lab 6: Building Occupancy Grids with TurtleBot ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab6)) ([Lab Doc](./assets/labs/lab6.pdf)) ([Slides](./assets/labs/lab5_6_slides.pdf))
 - Homework 5: Computer Vision - due 10/10
 - Discussion 6: Vision (Worksheet) (Video) (Boardwork) (Solutions)
 - Mini-Proposal due Friday 10/6, feedback over the weekend
-
 
 <a id="Week7"></a>
