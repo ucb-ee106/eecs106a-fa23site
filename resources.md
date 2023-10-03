@@ -8,17 +8,6 @@ description: >-
 
 # Resources
 
-{:.no_toc}
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
----
-
 ## Lab Resources
 
 - [Linear Algebra Review](assets/resources/math_review.pdf)
