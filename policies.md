@@ -115,12 +115,11 @@ The final project is a major part of your grade for this course and must include
 All students must complete a final project. Failure to complete a final project will result in a failing grade.
 
 |**Assignment**|**Due Date**|
-| Final Project Released | 09/28 |
-| Mini Proposal | 10/06 |
-| Mini Proposal Feedback | Week of 10/08 |
-| Final Proposal | 10/20 |
+| Final Project Released | 10/02 |
+| Final Proposal | 10/13 |
+| Proposal Feedback | Week of 10/16 |
 | Check-In 1 | 11/09 |
-| Check-In 2 | Week of 11/26 |
+| Check-In 2 | 11/29 |
 | Presentation Day 1 | 12/07 |
 | Presentation Day 2 | 12/08 |
 | Website Due | 12/15 |

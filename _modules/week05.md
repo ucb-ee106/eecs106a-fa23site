@@ -14,7 +14,6 @@ days:
   - [Review Session Recording](https://berkeley.zoom.us/rec/share/E1wcVV6_1rb0-A6TR5ehP6wG9fQdwJ8epPv-cf5XKzXHk_ihNPvBbmIrAiXe3ACe.EfDq1LB677K4e8aR), Password: #uxBJ.6F
 - Lab Buffer Week
 - No new homework this week
-- Discussion 5: Final Project Ideation (Final Project Guidelines)
 - Mini-Proposal due 10/6
 
 <a id="Week6"></a>
