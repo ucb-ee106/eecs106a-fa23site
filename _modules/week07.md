@@ -10,7 +10,7 @@ days:
 ---
 
 - Continue Labs 5 and 6
-- Homework 6: Velocities - due 10/17
+- Homework 6: Velocities - due 10/19
 - Discussion 7: Velocities
 - Final Project Proposal due Friday
 

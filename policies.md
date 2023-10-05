@@ -45,11 +45,11 @@ There will be a total of 10 homeworks, due weekly through mid-November (with the
 | HW 2: Exponential Coordinates | 09/06 | 09/12 |
 | HW 3: Forward Kinematics | 09/13 | 09/19 |
 | HW 4: Inverse Kinematics | 09/20 | 09/25 |
-| HW 5: Vision | 10/03 | 10/10 |
-| HW 6: Velocities | 10/11 | 10/17 |
+| HW 5: Vision | 10/03 | 10/12 |
+| HW 6: Velocities | 10/11 | 10/19 |
 | HW 7: Jacobians and Singularities | 10/18 | 10/26 |
-| HW 8: Dynamics | 10/27 | 11/02 |
-| HW 9: Control | 11/03 | 11/13 |
+| HW 8: Dynamics | 10/25 | 11/02 |
+| HW 9: Control | 11/02 | 11/13 |
 
 Each student is allocated 5 total days of extension (also known as *slip days*), to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After using all extension days, homeworks will not receive credit. Note: Homework will not be accepted more than two days past the due date, barring extenuating circumstances. Also, homeworks prior to the midterm will not be allowed slip days because we want to release solutions for you to study.
 
