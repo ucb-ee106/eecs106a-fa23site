@@ -13,7 +13,7 @@ days:
   - [Proposal](https://www.overleaf.com/read/dncxvvqfvfnk) due Friday 10/13
 - Lab 5: Inverse Kinematics and Path Planning ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab5)) ([Lab Doc](./assets/labs/lab5.pdf)) ([Slides](./assets/labs/lab5_6_slides.pdf))
 - Lab 6: Building Occupancy Grids with TurtleBot ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab6)) ([Lab Doc](./assets/labs/lab6.pdf)) ([Slides](./assets/labs/lab5_6_slides.pdf))
-- [Homework 4: Inverse Kinematics](./assets/homework/hw5_vision.pdf) - due 10/12
+- [Homework 5: Vision](./assets/homework/hw5_vision.pdf) - due 10/12
   - [Starter code](./assets/homework/hw5_starter.zip)
   - [Theory](./assets/homework/hw5_theory.pdf)
 - Discussion 6: Vision (Worksheet) (Video) (Boardwork) (Solutions)
