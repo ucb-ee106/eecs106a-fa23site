@@ -15,7 +15,7 @@ days:
 - Lab 6: Building Occupancy Grids with TurtleBot ([Starter Code](https://github.com/ucb-ee106/106a-fa23-labs-starter/tree/main/lab6)) ([Lab Doc](./assets/labs/lab6.pdf)) ([Slides](./assets/labs/lab5_6_slides.pdf))
 - [Homework 5: Vision](./assets/homework/hw5_vision.pdf) - due 10/12
   - [Starter code](./assets/homework/hw5_starter.zip)
-  - [Theory](./assets/homework/hw5_theory.pdf)
+  - [Theory](./assets/homework/hw5_vision_theory.pdf)
 - Discussion 6: Vision (Worksheet) (Video) (Boardwork) (Solutions)
 
 <a id="Week7"></a>
