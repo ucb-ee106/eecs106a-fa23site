@@ -16,6 +16,6 @@ days:
 - [Homework 5: Vision](./assets/homework/hw5_vision.pdf) - due 10/12
   - [Starter code](./assets/homework/hw5_starter.zip)
   - [Theory](./assets/homework/hw5_vision_theory.pdf)
-- Discussion 5: Vision [(Worksheet)](./assets/discussion/disc5_vision.pdf) (Video) (Boardwork) (Solutions)
+- Discussion 5: Vision [(Worksheet)](./assets/disc/disc5_vision.pdf) (Video) (Boardwork) (Solutions)
 
 <a id="Week7"></a>
