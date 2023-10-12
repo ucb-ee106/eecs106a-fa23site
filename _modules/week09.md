@@ -12,7 +12,7 @@ days:
 - Lab 7: Multiview Geometry and Feature Tracking
 - Lab 8: Mapping with Occupancy Grids
 - Homework 8: Dynamics - due 11/2
-- Discussion 9: Dynamics (Worksheet) (Video) (Boardwork) (Solutions)
+- Discussion 8: Dynamics (Worksheet) (Video) (Boardwork) (Solutions)
 - Work on Final Projects
 
 <a id="Week10"></a>
