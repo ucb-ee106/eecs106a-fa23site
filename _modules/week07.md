@@ -10,8 +10,8 @@ days:
 ---
 
 - Continue Labs 5 and 6
-- Homework 6: Velocities - due 10/19
+- [Homework 6: Velocities](./assets/homework/hw6_velocities.pdf) - due 10/19
 - Discussion 7: Velocities
-- Final Project Proposal due Friday
+- [Final Project Proposal](https://www.overleaf.com/read/dncxvvqfvfnk) due Friday
 
 <a id="Week8"></a>
