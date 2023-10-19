@@ -11,6 +11,6 @@ days:
 
 - Lab Buffer Week
 - Homework 7: [Jacobians & Singularities](./assets/homework/hw7_jacobians.pdf)  - due 10/26
-- Discussion 7: Jacobians (Worksheet) (Video) (Boardwork) (Solutions)
+- Discussion 7: Jacobians [(Worksheet)](./assets/disc/disc7_jacobians.pdf) (Video) (Boardwork) (Solutions)
 
 <a id="Week9"></a>
