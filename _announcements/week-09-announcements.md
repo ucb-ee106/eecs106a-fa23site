@@ -7,6 +7,7 @@ title: Week 9
 - Homework 7: [Jacobians & Singularities](./assets/homework/hw7_jacobians.pdf) - due Thursday
 - Discussion 8: [Dynamics](./assets/disc/disc8_dynamics.pdf) 
 - [Homework 8: Dynamics](./assets/homework/hw8_dynamics.pdf)
+    - [Starter Code](./assets/homework/hw8_starter.zip)
 
 <a href="#Week9">Jump to Week 9 </a>
 
