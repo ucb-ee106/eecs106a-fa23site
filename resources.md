@@ -10,6 +10,7 @@ description: >-
 
 ## Lab Resources
 
+- [Robot Usage Guide](https://ucb-ee106.github.io/eecs106a-fa23site/assets/labs/robot_usage_guide_fa23.pdf)
 - [Linear Algebra Review](assets/resources/math_review.pdf)
 - [ROS Cheat Sheet](assets/resources/ROS_cheat_sheet.pdf)
 - [Linux Intro](assets/resources/linux_intro.pdf)
