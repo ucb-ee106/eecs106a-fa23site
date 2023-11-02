@@ -11,7 +11,7 @@ days:
 
 - Continue Labs 7 and 8
 - Homework 9: Control - due 11/13
-- Discussion 9: State-Space Modeling and Linear Systems (Worksheet) (Video) (Boardwork) (Solutions)
+- Discussion 9: State-Space Modeling and Linear Systems ([Worksheet](./assets/disc/disc9_3D_Lagrangian.pdf)) (Video) (Boardwork) (Solutions)
 - Work on Final Projects
 
 <a id="Week11"></a>
