@@ -41,3 +41,6 @@ Other reference material:
 - [Past Project Examples](https://docs.google.com/document/d/1byeN-26PVVayVngnmpB2IWwWQ5rSnjHIGyKfs0VR4jo/edit)
 - [Research Project Proposals](https://docs.google.com/document/d/1NY2vftrFMETrQRZ-KatKnXOBVqu3SyLX90W51wrU-Tc/edit#heading=h.2f7k43kxtttj)
 - [Proposal Template](https://www.overleaf.com/read/dncxvvqfvfnk)
+- [Sawyer Reservations](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFBVGVYakM0V3lpfGRlZmF1bHR8YTFlNjA0Y2E3Mzk4OTk0NjI2Zjc2MjU1NjY4NTVmMzg)
+- [Turtlebot Reservations](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUV1ZXFPY25yTlp3fGRlZmF1bHR8NTk0NGQ1ZmVhYmFhN2Y5ODc1MzQ5MmJkOTYxNzg0NWY)
+
