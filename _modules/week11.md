@@ -10,7 +10,7 @@ days:
 ---
 
 - Lab Buffer Week
-- Discussion 10: Linear Control Theory - LQR, PID, FB Lin. (Worksheet) (Video) (Boardwork) (Solutions)
+- Discussion 10: Linear Control Theory ([Worksheet](./assets/disc/disc10_control.pdf)) (Video) (Boardwork) (Solutions)
 - Final Project Check-In I due Thursday 11/9
 
 <a id="Week12"></a>
