@@ -10,7 +10,7 @@ days:
 ---
 
 - Lab Buffer Week
-- Discussion 10: Linear Control Theory ([Worksheet](./assets/disc/disc10_control.pdf)) ([Boardwork](./assets/disc/disc10_boardwork.pdf)) (Solutions) (Video on bCourses)
+- Discussion 10: Linear Control Theory ([Worksheet](./assets/disc/disc10_control.pdf)) ([Boardwork](./assets/disc/disc10_boardwork.pdf)) ([Solutions](./assets/disc/disc10_sols.pdf)) (Video on bCourses)
 - Final Project Check-In I due Thursday 11/9
 
 <a id="Week12"></a>
