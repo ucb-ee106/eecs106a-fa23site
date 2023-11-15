@@ -10,6 +10,8 @@ days:
 ---
 
 - **Midterm II on 11/16 in class**
+  - [Review Session Notes](./assets/resources/midterm_2_review.pdf)
+  - Recording on Ed
 - Work on Final Projects
 
 <a id="Week13"></a>
