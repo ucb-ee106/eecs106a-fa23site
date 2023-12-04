@@ -38,6 +38,7 @@ Other reference material:
 ## Final Project Resources
 
 - [Fa23 Final Project Guidelines](https://ucb-ee106.github.io/eecs106a-fa23site/assets/final_proj/final_proj_guidelines.pdf)
+  - [Presentation Guidelines](https://ucb-ee106.github.io/eecs106a-fa23site/assets/final_proj/presentation_guidelines.pdf)
 - [Past Project Examples](https://docs.google.com/document/d/1byeN-26PVVayVngnmpB2IWwWQ5rSnjHIGyKfs0VR4jo/edit)
 - [Research Project Proposals](https://docs.google.com/document/d/1NY2vftrFMETrQRZ-KatKnXOBVqu3SyLX90W51wrU-Tc/edit#heading=h.2f7k43kxtttj)
 - [Proposal Template](https://www.overleaf.com/read/dncxvvqfvfnk)
