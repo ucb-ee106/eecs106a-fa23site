@@ -43,10 +43,10 @@ description: A listing of all the course staff members.
   {% endfor %}
 </div>
 
-<!-- ## Readers
+## Readers
 <div class="role">
   {% assign readers = site.staffers | where: 'role', 'Reader' %}
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
-</div> -->
+</div>
